@@ -1,52 +1,56 @@
-
 services:
   kafka:
     image: confluentinc/cp-kafka:7.6.1
     container_name: kafka
+    volumes:
+      - ./storage/kafka-data:/var/lib/kafka/data
     ports:
       - "29092:9092"
     environment:
-      # --- KRaft (Zookeeper 없음) ---
+      # --- KRaft 설정 (작성하신 내용 그대로 유지) ---
       KAFKA_NODE_ID: 1
       KAFKA_PROCESS_ROLES: broker,controller
       KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
-
       KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092,CONTROLLER://0.0.0.0:9093
       KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,CONTROLLER:PLAINTEXT
       KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
-
-      # 단일 노드 개발용
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
       KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
       KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
-
-      # KRaft 클러스터 ID (고정값 사용)
       CLUSTER_ID: "MkU3OEVBNTcwNTJENDM2Qk"
+
+    # [핵심 1] Kafka가 진짜 준비되었는지 10초마다 검사
+    healthcheck:
+      test: ["CMD", "kafka-broker-api-versions", "--bootstrap-server", "localhost:9092"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
   collector:
     build: ./collector
-    depends_on:
-      - kafka
-    env_file: .env
     restart: unless-stopped
     command: ["python", "-u", "main.py"]
     environment:
-    - PYTHONUNBUFFERED=1
-
+      - PYTHONUNBUFFERED=1
+    # [핵심 2] Kafka가 'Started'가 아니라 'Healthy' 상태일 때만 시작
+    depends_on:
+      kafka:
+        condition: service_healthy
+    env_file: .env
 
   spark:
     build: ./spark
-    depends_on:
-      - kafka
-    env_file: .env
     restart: unless-stopped
     volumes:
       - ./storage:/data
     environment:
       HOME: /tmp
       SPARK_SUBMIT_OPTS: "-Divy.cache.dir=/tmp/.ivy2 -Divy.home=/tmp/.ivy2"
-
-
+    # [핵심 3] Spark도 Kafka 준비 완료 후 실행
+    depends_on:
+      kafka:
+        condition: service_healthy
+    env_file: .env
