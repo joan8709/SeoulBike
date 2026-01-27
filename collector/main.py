@@ -24,6 +24,8 @@ def main():
         acks="all",
         retries=5,
         linger_ms=200,
+        api_version_auto_timeout_ms=1000,
+        request_timeout_ms=1000,
     )
 
     url = build_url(api_key)

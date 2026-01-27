@@ -1,11 +1,10 @@
-version: "3.8"
 
 services:
   kafka:
     image: confluentinc/cp-kafka:7.6.1
     container_name: kafka
     ports:
-      - "9092:9092"
+      - "29092:9092"
     environment:
       # --- KRaft (Zookeeper 없음) ---
       KAFKA_NODE_ID: 1
@@ -33,6 +32,10 @@ services:
       - kafka
     env_file: .env
     restart: unless-stopped
+    command: ["python", "-u", "main.py"]
+    environment:
+    - PYTHONUNBUFFERED=1
+
 
   spark:
     build: ./spark
@@ -42,4 +45,8 @@ services:
     restart: unless-stopped
     volumes:
       - ./storage:/data
+    environment:
+      HOME: /tmp
+      SPARK_SUBMIT_OPTS: "-Divy.cache.dir=/tmp/.ivy2 -Divy.home=/tmp/.ivy2"
+
 
