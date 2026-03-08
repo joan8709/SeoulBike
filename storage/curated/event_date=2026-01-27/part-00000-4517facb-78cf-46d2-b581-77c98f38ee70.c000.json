@@ -1,0 +1,1000 @@
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-4","station_name":"102. 망원역 1번출구 앞","bike_count":13,"lat":37.5556488,"lon":126.91062927}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-5","station_name":"103. 망원역 2번출구 앞","bike_count":23,"lat":37.55495071,"lon":126.91083527}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-6","station_name":"104. 합정역 1번출구 앞","bike_count":15,"lat":37.55073929,"lon":126.91508484}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-7","station_name":"105. 합정역 5번출구 앞","bike_count":1,"lat":37.55000687,"lon":126.91482544}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-8","station_name":"106. 합정역 7번출구 앞","bike_count":2,"lat":37.54864502,"lon":126.91282654}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-9","station_name":"107. 수협 연남동지점","bike_count":29,"lat":37.55784607,"lon":126.91871643}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-10","station_name":"108. 서교동 사거리","bike_count":16,"lat":37.55274582,"lon":126.91861725}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-15","station_name":"111. 상수역 2번출구 앞","bike_count":3,"lat":37.54787064,"lon":126.92353058}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-18","station_name":"113. 홍대입구역 2번출구 앞","bike_count":55,"lat":37.5574379,"lon":126.9238205}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-20","station_name":"114. 홍대입구역 8번출구 앞","bike_count":15,"lat":37.55706024,"lon":126.92442322}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-12","station_name":"115. 마스타 빌딩 앞","bike_count":21,"lat":37.55893326,"lon":126.92711639}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-17","station_name":"117. 홍은사거리","bike_count":4,"lat":37.59115982,"lon":126.94132996}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-19","station_name":"118. 광흥창역 2번출구 앞","bike_count":4,"lat":37.54773331,"lon":126.9317627}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-21","station_name":"119. 서강나루 공원","bike_count":8,"lat":37.54520798,"lon":126.93146515}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-22","station_name":"120. 신수동 사거리","bike_count":14,"lat":37.54524231,"lon":126.93411255}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-23","station_name":"121. 마포소방서 앞","bike_count":3,"lat":37.54976654,"lon":126.93317413}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-24","station_name":"122. 신성기사식당 앞","bike_count":3,"lat":37.54745865,"lon":126.93837738}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-25","station_name":"123. 문화촌 공원","bike_count":2,"lat":37.59432983,"lon":126.9473877}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-26","station_name":"124. 서강대 정문 건너편","bike_count":20,"lat":37.55113983,"lon":126.93698883}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-28","station_name":"126. 서강대 후문 옆","bike_count":14,"lat":37.55041122,"lon":126.94384766}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-29","station_name":"127. 현대벤처빌 앞","bike_count":17,"lat":37.5535202,"lon":126.93695068}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-30","station_name":"128. 신촌역(2호선) 1번출구 옆","bike_count":22,"lat":37.55549622,"lon":126.93634033}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-31","station_name":"129. 신촌역(2호선) 6번출구 옆","bike_count":8,"lat":37.55505371,"lon":126.93756866}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-32","station_name":"130. 신촌역(2호선) 7번출구 앞","bike_count":8,"lat":37.5550499,"lon":126.93626404}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-33","station_name":"131. 증산2교","bike_count":8,"lat":37.5841713,"lon":126.91110229}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-35","station_name":"133. 해담는다리","bike_count":5,"lat":37.58203125,"lon":126.90899658}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-36","station_name":"134. 연세로 명물길","bike_count":17,"lat":37.55789185,"lon":126.93807983}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-37","station_name":"135. 명물길 원형무대 앞","bike_count":17,"lat":37.55922699,"lon":126.93984222}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-39","station_name":"137. 신촌기차역입구 교차로","bike_count":4,"lat":37.55681229,"lon":126.9431839}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-40","station_name":"138. 신촌동 제1공영주차장 앞","bike_count":3,"lat":37.5591774,"lon":126.93452454}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-43","station_name":"139. 연세대 정문 건너편","bike_count":6,"lat":37.55986404,"lon":126.93441772}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-41","station_name":"140. 이화여대 후문","bike_count":4,"lat":37.560009,"lon":126.94073486}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-42","station_name":"141. 연대 대운동장 옆","bike_count":14,"lat":37.56238174,"lon":126.93264771}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-200","station_name":"142. 아현역 4번출구 앞","bike_count":17,"lat":37.55720139,"lon":126.95566559}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-201","station_name":"143. 공덕역 2번출구","bike_count":10,"lat":37.54464722,"lon":126.9500885}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-203","station_name":"145. 공덕역 5번출구","bike_count":16,"lat":37.54425049,"lon":126.95163727}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-204","station_name":"146. 마포역 2번출구 뒤","bike_count":11,"lat":37.53993607,"lon":126.94582367}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-205","station_name":"147. 마포역 4번출구 뒤","bike_count":24,"lat":37.53927231,"lon":126.94591522}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-206","station_name":"148. 용강동 주민센터 앞","bike_count":2,"lat":37.54234695,"lon":126.94302368}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-207","station_name":"150. 서강대역 2번출구 앞","bike_count":22,"lat":37.55295563,"lon":126.93434143}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-210","station_name":"153. 성산2교 사거리","bike_count":9,"lat":37.56469727,"lon":126.91261292}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-211","station_name":"154. 마포구청역 ","bike_count":18,"lat":37.56090927,"lon":126.90549469}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-212","station_name":"155. 가좌역1 번출구 앞","bike_count":27,"lat":37.56829453,"lon":126.91504669}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-213","station_name":"156. 서울서부지방법원 앞","bike_count":14,"lat":37.54933167,"lon":126.95491791}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-214","station_name":"157. 애오개역 4번출구 앞","bike_count":10,"lat":37.5530014,"lon":126.95668793}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-216","station_name":"159. 이대역 4번 출구","bike_count":15,"lat":37.55695343,"lon":126.94634247}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-217","station_name":"160. 북아현동 가구거리","bike_count":3,"lat":37.55754852,"lon":126.9593811}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-218","station_name":"161. 무악재역1번 출구","bike_count":2,"lat":37.58224487,"lon":126.95064545}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-219","station_name":"162. 봉원고가차도 밑","bike_count":24,"lat":37.56626129,"lon":126.94667053}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-220","station_name":"163. 명지전문대학교 정문 앞","bike_count":11,"lat":37.58369827,"lon":126.9249649}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-221","station_name":"164. 북가좌1동 주민센터 ","bike_count":1,"lat":37.57447815,"lon":126.91004944}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-222","station_name":"165. 중앙근린공원","bike_count":12,"lat":37.57513809,"lon":126.91394043}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-223","station_name":"166. 가재울 초등학교","bike_count":0,"lat":37.57381821,"lon":126.91923523}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-224","station_name":"167. 연가초등학교 옆","bike_count":10,"lat":37.57946014,"lon":126.91712952}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-226","station_name":"169. 북가좌 삼거리","bike_count":3,"lat":37.57300186,"lon":126.90779877}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-227","station_name":"170. DMC파크뷰자이아파트 302동 앞","bike_count":17,"lat":37.57311249,"lon":126.9224472}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-228","station_name":"171. 임광빌딩 앞","bike_count":0,"lat":37.56472397,"lon":126.96727753}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-230","station_name":"173. 서대문역 8번출구 앞","bike_count":4,"lat":37.56477737,"lon":126.96614838}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-231","station_name":"175. 홍연2교옆","bike_count":7,"lat":37.57806778,"lon":126.93088531}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-555","station_name":"176. 명지대학교 도서관","bike_count":16,"lat":37.58109665,"lon":126.92402649}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-345","station_name":"177. 북가좌 초등학교","bike_count":7,"lat":37.57763672,"lon":126.90965271}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-349","station_name":"178. 증산3교 앞","bike_count":2,"lat":37.57987595,"lon":126.90634918}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-232","station_name":"179. 가좌역 4번출구 앞","bike_count":9,"lat":37.56877518,"lon":126.91529846}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-233","station_name":"180. 충정로역 7번출구 아래","bike_count":9,"lat":37.55996704,"lon":126.96246338}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-339","station_name":"181. 망원초록길 입구","bike_count":2,"lat":37.55134201,"lon":126.90267181}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-340","station_name":"182. 망원2빗물펌프장 앞","bike_count":13,"lat":37.5513649,"lon":126.90306091}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-341","station_name":"183. 하늘채코오롱아파트 건너편","bike_count":8,"lat":37.56538773,"lon":126.91932678}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-342","station_name":"184.망원우체국사거리 인근","bike_count":19,"lat":37.55894852,"lon":126.90775299}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-343","station_name":"185. 마포 신수공원 앞","bike_count":12,"lat":37.54254532,"lon":126.93429565}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-344","station_name":"186. 월드컵공원","bike_count":96,"lat":37.56396484,"lon":126.89820862}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-346","station_name":"188. 홍은동 정원여중 입구","bike_count":8,"lat":37.58638763,"lon":126.93512726}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-347","station_name":"191. 서우빌딩","bike_count":9,"lat":37.57889175,"lon":126.91073608}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-348","station_name":"192. 연서어린이공원","bike_count":16,"lat":37.57222748,"lon":126.92306519}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-350","station_name":"194. 증산교 앞","bike_count":9,"lat":37.57731628,"lon":126.90296936}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-351","station_name":"195. 모래내고가차도 ","bike_count":1,"lat":37.56765747,"lon":126.91780853}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-352","station_name":"196. 연희교차로 인근","bike_count":4,"lat":37.56612015,"lon":126.92589569}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-354","station_name":"198. 충정2교","bike_count":2,"lat":37.56390762,"lon":126.96497345}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-443","station_name":"199. 서울 월드컵 경기장","bike_count":44,"lat":37.56684494,"lon":126.89644623}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-45","station_name":"200. 국회의원회관","bike_count":23,"lat":37.52841568,"lon":126.91391754}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-46","station_name":"201. 진미파라곤 앞","bike_count":61,"lat":37.53123856,"lon":126.92133331}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-47","station_name":"202. 국민일보 앞","bike_count":60,"lat":37.52881622,"lon":126.92453003}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-51","station_name":"203. 국회의사당역 3번출구 옆","bike_count":32,"lat":37.5280571,"lon":126.91870117}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-50","station_name":"204. 국회의사당역 5번출구 옆","bike_count":17,"lat":37.52816391,"lon":126.91702271}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-52","station_name":"205. 산업은행 앞","bike_count":62,"lat":37.52626419,"lon":126.92050934}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-53","station_name":"206. KBS 앞","bike_count":63,"lat":37.52466583,"lon":126.91802216}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-73","station_name":"207. 여의나루역 1번출구 앞","bike_count":3,"lat":37.52715683,"lon":126.93190002}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-55","station_name":"209. 유진투자증권빌딩 앞","bike_count":56,"lat":37.52461243,"lon":126.92783356}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-59","station_name":"213. KT앞","bike_count":22,"lat":37.52190781,"lon":126.91895294}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-60","station_name":"214. 금융감독원 앞","bike_count":24,"lat":37.5230217,"lon":126.9208374}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-64","station_name":"215. 여의도고교 앞","bike_count":21,"lat":37.52483749,"lon":126.93490601}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-66","station_name":"217. NH농협은행 앞","bike_count":72,"lat":37.52207947,"lon":126.93036652}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-62","station_name":"219. 롯데캐슬엠파이어 옆","bike_count":11,"lat":37.52069473,"lon":126.92583466}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-63","station_name":"220. 미성아파트 A동 앞","bike_count":17,"lat":37.5193634,"lon":126.92604828}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-67","station_name":"221. 여의도초교 앞","bike_count":4,"lat":37.52267456,"lon":126.93778992}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-68","station_name":"222. 시범아파트버스정류장 옆","bike_count":11,"lat":37.51902008,"lon":126.93688965}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-69","station_name":"223. 진주아파트상가 앞","bike_count":33,"lat":37.51913071,"lon":126.9333725}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-70","station_name":"224. 롯데캐슬 앞","bike_count":56,"lat":37.5200882,"lon":126.93236542}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-71","station_name":"225. 앙카라공원 앞","bike_count":17,"lat":37.51758575,"lon":126.92961884}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-72","station_name":"226. 샛강역 1번출구 앞","bike_count":19,"lat":37.51776505,"lon":126.92841339}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-277","station_name":"227. 양평1나들목 보행통로 입구","bike_count":11,"lat":37.54466629,"lon":126.88835907}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-278","station_name":"228. 선유도역 3번출구 앞","bike_count":16,"lat":37.53845978,"lon":126.89450836}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-279","station_name":"229. 양평1 보행육교 앞","bike_count":19,"lat":37.53587341,"lon":126.8921814}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-413","station_name":"230. 영등포구청역 7번출구","bike_count":34,"lat":37.52435684,"lon":126.89600372}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-280","station_name":"231. 남부고용노동지청 남측","bike_count":24,"lat":37.52450562,"lon":126.89182281}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-281","station_name":"232. 양평우림 이비즈센타 앞","bike_count":25,"lat":37.52565002,"lon":126.88781738}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-282","station_name":"233. 양평1동 YP센터 앞","bike_count":22,"lat":37.52848816,"lon":126.89164734}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-284","station_name":"235. 신길동 우리은행 옆","bike_count":1,"lat":37.50456619,"lon":126.91023254}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-285","station_name":"236. 문래동자이아파트 앞","bike_count":39,"lat":37.51615524,"lon":126.89461517}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-286","station_name":"237. 보라매 두산위브 건너편","bike_count":10,"lat":37.496521,"lon":126.91492462}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-287","station_name":"238. 제2구민체육센타 앞","bike_count":30,"lat":37.52638626,"lon":126.90275574}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-288","station_name":"239. 유스호스텔 앞","bike_count":44,"lat":37.5258522,"lon":126.90328217}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-289","station_name":"240. 문래역 4번출구 앞","bike_count":17,"lat":37.51873779,"lon":126.89557648}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-290","station_name":"241. 신길우성1차아파트 앞 공원","bike_count":0,"lat":37.50501633,"lon":126.89853668}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-291","station_name":"242. 신길선원가와인아파트 앞","bike_count":16,"lat":37.51093292,"lon":126.91022491}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-292","station_name":"243. 이앤씨드림타워 앞","bike_count":37,"lat":37.52708435,"lon":126.89138031}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-293","station_name":"244. 영등포삼환아파트 앞","bike_count":16,"lat":37.53007889,"lon":126.90570831}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-294","station_name":"245. 삼성생명 당산사옥 앞","bike_count":42,"lat":37.52826309,"lon":126.89662933}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-295","station_name":"247. 당산역 10번출구 앞","bike_count":31,"lat":37.53342056,"lon":126.90223694}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-296","station_name":"248. 초원아파트 앞","bike_count":21,"lat":37.53105545,"lon":126.92420959}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-297","station_name":"249. 여의도중학교 옆","bike_count":4,"lat":37.52457809,"lon":126.93580627}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-298","station_name":"250. 대림아파트 사거리","bike_count":9,"lat":37.50764084,"lon":126.92308044}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-299","station_name":"251. 서울지방병무청 버스정류장","bike_count":14,"lat":37.50449371,"lon":126.92195129}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-300","station_name":"252. 보라매역4번출구","bike_count":46,"lat":37.49982834,"lon":126.91994476}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-302","station_name":"254. 도림신협 앞","bike_count":17,"lat":37.50380325,"lon":126.90341949}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-303","station_name":"255. 도림사거리","bike_count":33,"lat":37.50657272,"lon":126.90113068}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-304","station_name":"256. 동아에코빌입구","bike_count":7,"lat":37.50947571,"lon":126.89929962}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-306","station_name":"258. 신길역3번출구","bike_count":15,"lat":37.51769257,"lon":126.91429901}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-307","station_name":"259. 대방역6번출구","bike_count":44,"lat":37.51359177,"lon":126.92593384}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-414","station_name":"260. 여의도 마리나선착장 앞","bike_count":15,"lat":37.53365707,"lon":126.91216278}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-417","station_name":"263. 근로자회관 사거리","bike_count":53,"lat":37.51715088,"lon":126.8886261}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-418","station_name":"264. 교보생명보험 앞","bike_count":32,"lat":37.52193069,"lon":126.89161682}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-419","station_name":"265. 영등포유통상가 사거리","bike_count":16,"lat":37.52113342,"lon":126.89653778}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-420","station_name":"266. 영등포청과시장 사거리","bike_count":19,"lat":37.52029419,"lon":126.90119171}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-421","station_name":"267. 삼성화재 사옥 옆","bike_count":31,"lat":37.53596115,"lon":126.89830017}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-422","station_name":"268. 그랜드컨벤션센터 앞","bike_count":34,"lat":37.53471756,"lon":126.90000153}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-424","station_name":"270. 증권거래소후문교차로","bike_count":8,"lat":37.52234268,"lon":126.92710114}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-425","station_name":"271. 샛강생태공원방문자센터 앞","bike_count":4,"lat":37.51896286,"lon":126.9216156}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-426","station_name":"272. 당산육갑문","bike_count":43,"lat":37.53533936,"lon":126.90367889}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1320","station_name":"275. 신동아아파트","bike_count":10,"lat":37.52269745,"lon":126.88568115}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1321","station_name":"276. 영등포로터리2","bike_count":6,"lat":37.51828384,"lon":126.9126358}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1323","station_name":"278. 쌍용플레티넘오피스텔","bike_count":20,"lat":37.50793076,"lon":126.89523315}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1353","station_name":"279. 영등포 푸르지오 아파트 B","bike_count":4,"lat":37.51322937,"lon":126.90446472}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1539","station_name":"280. 양평동6차현대아파트 앞","bike_count":13,"lat":37.53210068,"lon":126.8944397}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1540","station_name":"281. 대림신동아아파트 앞","bike_count":7,"lat":37.49824142,"lon":126.89398193}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1541","station_name":"282. 신한은행 대림동지점","bike_count":51,"lat":37.48752975,"lon":126.90487671}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1649","station_name":"283. 아크로타워 스퀘어(영등포시장)","bike_count":12,"lat":37.52251816,"lon":126.90721893}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1650","station_name":"284. 센트럴 푸르지오 시티 앞","bike_count":29,"lat":37.51821136,"lon":126.90222931}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1651","station_name":"285. 콤텍시스템 앞","bike_count":53,"lat":37.49985886,"lon":126.89723969}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1652","station_name":"286. 우성아파트 교차로","bike_count":48,"lat":37.49457169,"lon":126.89974976}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1653","station_name":"287. 영등포전화국사거리 (서강어린이공원)","bike_count":10,"lat":37.52576828,"lon":126.90573883}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1677","station_name":"288. 쌍용예가(구청별관)","bike_count":23,"lat":37.52809906,"lon":126.89338684}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1697","station_name":"289. 대림3동사거리","bike_count":26,"lat":37.49980927,"lon":126.89800262}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1698","station_name":"290. 새말소공원","bike_count":22,"lat":37.5315094,"lon":126.89782715}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1699","station_name":"291. 문래동 하이테크 시티","bike_count":24,"lat":37.51412964,"lon":126.89939117}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1700","station_name":"292. 영일 어린이공원","bike_count":14,"lat":37.51012039,"lon":126.90406799}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1701","station_name":"293. 충북 미래관","bike_count":34,"lat":37.52917099,"lon":126.90757751}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1967","station_name":"295.영등포공원 분수대 앞","bike_count":7,"lat":37.51481247,"lon":126.91170502}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1968","station_name":"296.KT플라자 영등포점","bike_count":22,"lat":37.52630234,"lon":126.90538025}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1969","station_name":"297.국회3문","bike_count":0,"lat":37.52863693,"lon":126.91267395}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1970","station_name":"298.KBS 연구동 건너편","bike_count":26,"lat":37.52724838,"lon":126.91374207}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1971","station_name":"299.여의도 순복음교회","bike_count":7,"lat":37.53179169,"lon":126.92245483}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-116","station_name":"300. 정동사거리","bike_count":13,"lat":37.56805038,"lon":126.96923065}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-117","station_name":"301. 경복궁역 7번출구 앞","bike_count":7,"lat":37.57579422,"lon":126.97145081}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-118","station_name":"302. 경복궁역 6번출구 뒤","bike_count":10,"lat":37.57561493,"lon":126.97289276}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-119","station_name":"303. 광화문역 1번출구 앞","bike_count":25,"lat":37.57176971,"lon":126.97466278}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-121","station_name":"305. 종로구청 옆","bike_count":18,"lat":37.57255936,"lon":126.97833252}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-123","station_name":"307. 서울역사박물관 앞","bike_count":18,"lat":37.56999969,"lon":126.97109985}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-124","station_name":"308. 광화문 S타워 앞","bike_count":60,"lat":37.56996918,"lon":126.97393799}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-125","station_name":"309. 광화문역 6번출구 옆 B","bike_count":8,"lat":37.56996155,"lon":126.97615814}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-126","station_name":"310. 청계광장 옆","bike_count":10,"lat":37.56887817,"lon":126.9774704}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-130","station_name":"314. 국립현대미술관","bike_count":8,"lat":37.5797081,"lon":126.98085785}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-132","station_name":"316. 종각역 1번출구 앞","bike_count":15,"lat":37.57039642,"lon":126.98178864}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-134","station_name":"318. 광교사거리 남측","bike_count":8,"lat":37.56863403,"lon":126.98231506}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-136","station_name":"320. 을지로입구역 4번출구 앞","bike_count":9,"lat":37.56622314,"lon":126.98358917}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-137","station_name":"321. KEB 하나금융그룹 명동사옥 옆","bike_count":34,"lat":37.56546402,"lon":126.98413849}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-138","station_name":"322. 명동성당 앞","bike_count":13,"lat":37.56447601,"lon":126.98696899}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-140","station_name":"324. 신세계백화점 본점 앞","bike_count":17,"lat":37.56134415,"lon":126.9805069}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-142","station_name":"326. 안국역 5번출구 앞","bike_count":15,"lat":37.57624054,"lon":126.98616028}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-143","station_name":"327. 낙원상가 옆","bike_count":2,"lat":37.57335663,"lon":126.9874649}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-144","station_name":"328. 탑골공원 앞","bike_count":22,"lat":37.57039642,"lon":126.9881897}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-145","station_name":"329. 청계2가 사거리 옆","bike_count":23,"lat":37.56848526,"lon":126.98788452}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-147","station_name":"331. 을지로2가 사거리 북측","bike_count":34,"lat":37.56638336,"lon":126.98720551}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-148","station_name":"332. 을지로2가 사거리 남측","bike_count":9,"lat":37.56599045,"lon":126.98779297}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-150","station_name":"334. 종로3가역 2번출구 뒤","bike_count":11,"lat":37.5705986,"lon":126.99179077}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-151","station_name":"335. 종로3가역 15번출구 뒤","bike_count":6,"lat":37.57019424,"lon":126.99165344}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-152","station_name":"336. 충무로역 6번출구 앞","bike_count":9,"lat":37.56144714,"lon":126.99311066}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-153","station_name":"337. 창경궁 입구","bike_count":3,"lat":37.57897949,"lon":126.99647522}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-154","station_name":"338. 세운스퀘어 앞","bike_count":6,"lat":37.57095718,"lon":126.99712372}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-155","station_name":"339. 종로4가 사거리","bike_count":5,"lat":37.57106781,"lon":126.99819183}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-156","station_name":"340. 혜화동 로터리","bike_count":8,"lat":37.58562851,"lon":127.00067902}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-157","station_name":"341. 혜화역 3번출구 뒤","bike_count":6,"lat":37.58156967,"lon":127.00178528}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-158","station_name":"342. 대학로 마로니에공원","bike_count":4,"lat":37.58044434,"lon":127.00234222}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-159","station_name":"343. 힐스테이트창경궁 아파트 앞","bike_count":0,"lat":37.57561111,"lon":127.00469971}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-160","station_name":"344. 성균관대 E하우스 앞","bike_count":0,"lat":37.57419968,"lon":127.0065918}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-161","station_name":"345. 서울보증보험본사 앞","bike_count":17,"lat":37.57330704,"lon":127.00070953}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-162","station_name":"346. 맥스타일 앞","bike_count":6,"lat":37.5689621,"lon":127.01014709}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-163","station_name":"347. 동대문역사문화공원역 9번출구 앞","bike_count":5,"lat":37.56533051,"lon":127.00784302}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-183","station_name":"348. 독립문역 사거리","bike_count":17,"lat":37.57210541,"lon":126.96095276}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-165","station_name":"349. 어린이도서관","bike_count":3,"lat":37.57633209,"lon":126.96858978}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-167","station_name":"351. 청운초교 앞 삼거리","bike_count":5,"lat":37.58496857,"lon":126.97041321}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-168","station_name":"352. 중앙고입구 삼거리","bike_count":13,"lat":37.58341599,"lon":126.98523712}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-169","station_name":"353. 재동초교 앞 삼거리","bike_count":10,"lat":37.57938766,"lon":126.9849472}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-170","station_name":"354. 포르투갈 대사관 앞","bike_count":15,"lat":37.57915497,"lon":126.98896027}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-171","station_name":"355. 서울사대부설초등학교 앞","bike_count":11,"lat":37.57650757,"lon":127.00245667}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-172","station_name":"356. KT혜화지사 앞","bike_count":3,"lat":37.57714462,"lon":127.00205994}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-173","station_name":"358. 성균관대입구 사거리 A","bike_count":1,"lat":37.58250046,"lon":126.99853516}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-174","station_name":"359. 원남동사거리","bike_count":11,"lat":37.57606125,"lon":126.99768066}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-175","station_name":"361. 동묘앞역 1번출구 뒤","bike_count":1,"lat":37.57324219,"lon":127.01590729}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-176","station_name":"362. 청계8가사거리 A","bike_count":7,"lat":37.57223511,"lon":127.0231781}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-177","station_name":"363. 신설동역 11번출구 뒤","bike_count":10,"lat":37.57559204,"lon":127.02285004}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-178","station_name":"364. 창신역 1번출구 앞","bike_count":0,"lat":37.57933426,"lon":127.01508331}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-180","station_name":"367. 독립문역 3-1번출구 ","bike_count":28,"lat":37.57415771,"lon":126.95851898}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-181","station_name":"368. SK 서린빌딩 앞","bike_count":35,"lat":37.5692482,"lon":126.98053741}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-185","station_name":"370. 시청역(2호선) 9번출구 뒤","bike_count":14,"lat":37.56322861,"lon":126.97483826}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-186","station_name":"371. 동대입구역 6번출구 뒤","bike_count":0,"lat":37.55887222,"lon":127.00553894}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-187","station_name":"372. 약수역 3번출구 뒤","bike_count":0,"lat":37.55429459,"lon":127.01119995}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-189","station_name":"374. 신당동주민센터앞","bike_count":14,"lat":37.56209183,"lon":127.01467133}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-194","station_name":"379. 서울역9번출구","bike_count":6,"lat":37.55599976,"lon":126.97335815}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-195","station_name":"380. CJ제일제당 앞","bike_count":7,"lat":37.56386566,"lon":127.00274658}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-196","station_name":"381. 장충체육관","bike_count":7,"lat":37.55853271,"lon":127.00698853}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-197","station_name":"382. 약수역 10번출구 앞","bike_count":8,"lat":37.55519867,"lon":127.01004791}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-198","station_name":"383. 신당역 12번 출구 뒤","bike_count":2,"lat":37.56591797,"lon":127.01642609}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-199","station_name":"384. 중림동삼거리","bike_count":6,"lat":37.55978012,"lon":126.96850586}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-336","station_name":"385. 종각역 5번출구","bike_count":14,"lat":37.56983566,"lon":126.98265839}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-338","station_name":"387. 훈련원공원주차장 앞","bike_count":7,"lat":37.56699371,"lon":127.00346375}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-444","station_name":"388. 동성중학교 앞","bike_count":1,"lat":37.58573532,"lon":127.0016098}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-943","station_name":"389. 을지로4가역 1번출구","bike_count":7,"lat":37.5667305,"lon":126.99660492}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-944","station_name":"390. 충무로역 1번출구","bike_count":17,"lat":37.56138992,"lon":126.9953537}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-977","station_name":"391. 시립미술관","bike_count":33,"lat":37.56505203,"lon":126.97340393}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1372","station_name":"393. 동대문역 8번 출구","bike_count":0,"lat":37.57014084,"lon":127.00937653}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1373","station_name":"394. 경희궁 자이 3단지","bike_count":8,"lat":37.56748962,"lon":126.96591949}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1374","station_name":"395. 경희궁 자이 2단지","bike_count":7,"lat":37.56885529,"lon":126.96456146}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1432","station_name":"397. 종묘공영주차장 건너편","bike_count":9,"lat":37.57048035,"lon":126.99663544}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1435","station_name":"398. 을지로3가역 3번출구","bike_count":21,"lat":37.56660461,"lon":126.99249268}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1436","station_name":"399. 서울역 센트럴 자이아파트","bike_count":14,"lat":37.55410767,"lon":126.96540833}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-110","station_name":"400. 상암한화오벨리스크 1차 앞","bike_count":20,"lat":37.58752441,"lon":126.88300323}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-76","station_name":"401. 상암월드컵파크 10단지 앞","bike_count":3,"lat":37.58618927,"lon":126.88161469}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-77","station_name":"402. 상암월드컵파크 9단지 앞","bike_count":17,"lat":37.5829277,"lon":126.87983704}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-78","station_name":"403. 부엉이공원 앞","bike_count":35,"lat":37.58559036,"lon":126.88472748}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-80","station_name":"405. DMC빌 앞","bike_count":6,"lat":37.58265686,"lon":126.88578796}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-81","station_name":"406. 상암월드컵파크 7단지 앞","bike_count":14,"lat":37.58108902,"lon":126.88088226}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-83","station_name":"407. 마포구 육아종합지원센터","bike_count":20,"lat":37.58063126,"lon":126.88367462}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-84","station_name":"408. LG CNS앞","bike_count":27,"lat":37.58081055,"lon":126.88665009}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-86","station_name":"409. 누리꿈스퀘어 옆","bike_count":86,"lat":37.57939911,"lon":126.88916016}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-88","station_name":"410. 상암중학교 옆","bike_count":15,"lat":37.57739258,"lon":126.88747406}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-90","station_name":"411. DMC홍보관","bike_count":26,"lat":37.5779953,"lon":126.89147186}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-91","station_name":"412. DMC산학협력연구센터 앞","bike_count":9,"lat":37.57565689,"lon":126.89079285}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-92","station_name":"413. 상암월드컵파크 3단지 후문","bike_count":4,"lat":37.57147598,"lon":126.88968658}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-94","station_name":"414. 상암동주민센터 옆","bike_count":24,"lat":37.57822037,"lon":126.89447021}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-95","station_name":"415. DMC역 9번출구 앞","bike_count":2,"lat":37.57746887,"lon":126.89736176}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-96","station_name":"416. 상암월드컵파크 1단지 교차로","bike_count":11,"lat":37.57566452,"lon":126.89444733}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-93","station_name":"417. DMC역 2번출구 옆","bike_count":12,"lat":37.57506943,"lon":126.8999176}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-89","station_name":"418. 월드컵경기장역 3번출구 옆","bike_count":18,"lat":37.57277679,"lon":126.8992691}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-87","station_name":"419. 홈플러스 마포점 앞","bike_count":13,"lat":37.56842041,"lon":126.89942932}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-85","station_name":"420. 서울시 공공자전거 상암센터","bike_count":48,"lat":37.56624603,"lon":126.8961792}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-82","station_name":"421. 마포구청 앞","bike_count":8,"lat":37.56574631,"lon":126.9018631}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-968","station_name":"422. 문화비축기지","bike_count":20,"lat":37.56897736,"lon":126.89440155}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-990","station_name":"424. 롯데하이마트 (상암월드컵점)","bike_count":12,"lat":37.57361984,"lon":126.8980484}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-991","station_name":"425. DMC첨단산업센터","bike_count":10,"lat":37.58450317,"lon":126.88559723}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-992","station_name":"426. 서울신용보증재단","bike_count":10,"lat":37.54906082,"lon":126.95417786}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1397","station_name":"427. 성산시영아파트","bike_count":5,"lat":37.5693779,"lon":126.90402985}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1437","station_name":"428. 명보사거리","bike_count":13,"lat":37.56439972,"lon":126.99143219}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1438","station_name":"429. 송도병원","bike_count":1,"lat":37.54988861,"lon":127.00734711}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1439","station_name":"430. 장충동먹자골목 앞","bike_count":4,"lat":37.56212616,"lon":127.0062561}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1440","station_name":"431. 청계천 영도교","bike_count":3,"lat":37.5710144,"lon":127.01974487}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1494","station_name":"432. 마포중앙도서관","bike_count":13,"lat":37.56333923,"lon":126.90820312}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1668","station_name":"433. 을지로입구역 2번출구","bike_count":20,"lat":37.56634521,"lon":126.98229218}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1669","station_name":"434. 신당 래미안 버스정류장","bike_count":18,"lat":37.56148911,"lon":127.02393341}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1670","station_name":"435. SK 남산빌딩","bike_count":4,"lat":37.55686188,"lon":126.97561646}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1675","station_name":"436. 이대역 5번출구","bike_count":12,"lat":37.55659103,"lon":126.94618988}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1691","station_name":"437. 대흥역 1번출구","bike_count":19,"lat":37.54846954,"lon":126.9409256}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1692","station_name":"438. 성산2-1 공영주차장","bike_count":6,"lat":37.56472015,"lon":126.9067688}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1754","station_name":"440. 하늘공원 입구","bike_count":15,"lat":37.57012177,"lon":126.88134766}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1761","station_name":"441.염천교사거리","bike_count":10,"lat":37.55989075,"lon":126.97149658}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1768","station_name":"442.서울역 서부","bike_count":12,"lat":37.55641556,"lon":126.9691925}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1769","station_name":"443.호암아트홀","bike_count":13,"lat":37.5621109,"lon":126.97071838}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1771","station_name":"445.대한상공회의소","bike_count":19,"lat":37.56015396,"lon":126.97410583}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-938","station_name":"446. 상명대입구","bike_count":8,"lat":37.60012817,"lon":126.95783234}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-939","station_name":"447. 신영동삼거리","bike_count":19,"lat":37.60399246,"lon":126.96194458}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-941","station_name":"449. 일성아파트","bike_count":13,"lat":37.60871887,"lon":126.97286224}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-978","station_name":"450. 효자동 삼거리","bike_count":53,"lat":37.58360291,"lon":126.97254944}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-979","station_name":"451. 청와대앞길","bike_count":5,"lat":37.58351517,"lon":126.97966766}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1605","station_name":"452. 동대문 종합시장 버스정류장","bike_count":2,"lat":37.57123947,"lon":127.00440979}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1606","station_name":"453. 종로오가 지하쇼핑센터 14번출구","bike_count":8,"lat":37.57114029,"lon":127.00067139}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1607","station_name":"454. 종로2가 버스정류장 (종각방향)","bike_count":20,"lat":37.57035828,"lon":126.98638153}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1608","station_name":"455. 종로6가역 버스정류장(동대문 방향)","bike_count":4,"lat":37.570961,"lon":127.00605774}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1609","station_name":"456. 숭인2동 주민센터 입구","bike_count":6,"lat":37.57447052,"lon":127.0198288}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1610","station_name":"457. 종로꽃시장 입구 옆","bike_count":2,"lat":37.57131958,"lon":127.00720978}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1611","station_name":"458. 광화문역 5번출구","bike_count":13,"lat":37.56989288,"lon":126.97756958}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1619","station_name":"461. 서울경찰청","bike_count":25,"lat":37.57436371,"lon":126.97236633}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1756","station_name":"464. 삼청동 골목","bike_count":15,"lat":37.58419037,"lon":126.98169708}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1759","station_name":"465. 삼청공원 앞","bike_count":7,"lat":37.58760452,"lon":126.9835968}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1772","station_name":"466.롯데호텔","bike_count":1,"lat":37.56584167,"lon":126.97981262}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1773","station_name":"467.한국은행","bike_count":24,"lat":37.5622139,"lon":126.98086548}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1774","station_name":"468.웨스틴 조선호텔","bike_count":31,"lat":37.56415939,"lon":126.97948456}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1775","station_name":"469.회현역 1번출구","bike_count":3,"lat":37.5592308,"lon":126.98014069}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1776","station_name":"470.회현역 7번출구","bike_count":0,"lat":37.55974579,"lon":126.98000336}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1777","station_name":"471.회현사거리 남측","bike_count":9,"lat":37.56035995,"lon":126.98265076}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1778","station_name":"472.삼일교(시그니쳐 타워)","bike_count":21,"lat":37.56787109,"lon":126.98840332}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1779","station_name":"473.을지로4가역 9번출구","bike_count":13,"lat":37.56605148,"lon":126.99798584}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1780","station_name":"474.동대문역사문화공원역 1번출구 뒤편","bike_count":19,"lat":37.56629944,"lon":127.00849152}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1781","station_name":"475.DDP 패션몰","bike_count":4,"lat":37.56764984,"lon":127.0118103}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1782","station_name":"476.광희문","bike_count":1,"lat":37.56443024,"lon":127.00995636}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1783","station_name":"477.앰배서더 호텔 주변","bike_count":19,"lat":37.55928802,"lon":127.00268555}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1785","station_name":"479.동대입구역 3번 출구","bike_count":0,"lat":37.55937576,"lon":127.00602722}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1786","station_name":"480.약수역 6번 출구","bike_count":7,"lat":37.55432129,"lon":127.01070404}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1789","station_name":"483.남산타운아파트 버스정류장","bike_count":7,"lat":37.54758453,"lon":127.00643921}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1791","station_name":"485.서울역5번출구","bike_count":11,"lat":37.55677032,"lon":126.97319794}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2019","station_name":"486. 평창동주민센터 앞","bike_count":13,"lat":37.60627365,"lon":126.96832275}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2147","station_name":"488.푸르메병원","bike_count":6,"lat":37.58456802,"lon":126.88021088}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2148","station_name":"489.구룡근린공원","bike_count":17,"lat":37.58320236,"lon":126.88276672}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2149","station_name":"490.가온문화공원","bike_count":41,"lat":37.58207703,"lon":126.88766479}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2150","station_name":"491.월드컵파크 4단지","bike_count":16,"lat":37.57597733,"lon":126.88806915}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2152","station_name":"493.홍대입구역 6번출구","bike_count":9,"lat":37.55657578,"lon":126.9288559}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2153","station_name":"494.신수동주민센터","bike_count":3,"lat":37.54724503,"lon":126.93502808}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2154","station_name":"495.염리초등학교 앞","bike_count":24,"lat":37.54243088,"lon":126.9469986}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2156","station_name":"497.합정동주민센터 앞","bike_count":23,"lat":37.551754,"lon":126.91230011}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2157","station_name":"498.연남동주민센터 앞","bike_count":17,"lat":37.56465149,"lon":126.92212677}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-97","station_name":"500. 어린이대공원역 3번출구 앞","bike_count":6,"lat":37.54705048,"lon":127.07433319}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-98","station_name":"501. 광진문화예술회관 앞","bike_count":12,"lat":37.53730774,"lon":127.07035065}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-99","station_name":"502. 자양(뚝섬한강공원)역 1번출구 앞","bike_count":30,"lat":37.53186035,"lon":127.06719208}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-102","station_name":"505. 자양사거리 광진아크로텔 앞","bike_count":8,"lat":37.53701019,"lon":127.08224487}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-103","station_name":"506. 금호 어울림 아파트 앞","bike_count":17,"lat":37.54906082,"lon":127.05779266}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-105","station_name":"508. 성수아카데미타워 앞","bike_count":21,"lat":37.54516983,"lon":127.05757141}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-107","station_name":"510. 뚝도아리수정수센터 버스정류소 옆","bike_count":34,"lat":37.54122162,"lon":127.04380035}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-108","station_name":"511. 서울숲역 5번 출구 옆","bike_count":44,"lat":37.54458237,"lon":127.04460907}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-109","station_name":"512. 뚝섬역 1번 출구 옆","bike_count":16,"lat":37.5485611,"lon":127.0450058}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-111","station_name":"513. 뚝섬역 5번 출구 정류소 옆","bike_count":10,"lat":37.54630661,"lon":127.04980469}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-112","station_name":"514. 성수사거리 버스정류장 앞","bike_count":20,"lat":37.54257965,"lon":127.06330872}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-113","station_name":"515. 광양중학교 앞","bike_count":3,"lat":37.53023529,"lon":127.08683014}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-114","station_name":"516. 광진메디칼 앞","bike_count":5,"lat":37.54840469,"lon":127.06936646}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-234","station_name":"518. 청계천 박물관 앞","bike_count":15,"lat":37.57152557,"lon":127.03535461}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-235","station_name":"519. 양지사거리","bike_count":17,"lat":37.56699371,"lon":127.02991486}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-236","station_name":"520. 상왕십리역 4번 출구 앞","bike_count":15,"lat":37.56385803,"lon":127.03031921}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-237","station_name":"521. 왕십리역 11번 출구 앞","bike_count":21,"lat":37.56144714,"lon":127.03491974}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-238","station_name":"522. 금호역 1번출구 앞","bike_count":8,"lat":37.5486412,"lon":127.01642609}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-239","station_name":"523. 옥수동성당 옆","bike_count":18,"lat":37.54366302,"lon":127.01406097}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-240","station_name":"524. 래미안금호하이리버 아파트 102동 옆","bike_count":9,"lat":37.55220032,"lon":127.02505493}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-241","station_name":"525. 한양대병원사거리","bike_count":32,"lat":37.55805206,"lon":127.04035187}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-242","station_name":"526. 용답토속공원 앞","bike_count":30,"lat":37.56351089,"lon":127.05672455}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-243","station_name":"529. 장한평역 8번 출구 앞","bike_count":16,"lat":37.56137085,"lon":127.06365967}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-244","station_name":"530. 청계벽산아파트 앞","bike_count":7,"lat":37.56874847,"lon":127.03040314}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-245","station_name":"533. 금남시장 교차로","bike_count":4,"lat":37.54814911,"lon":127.02108765}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-246","station_name":"534. 금호사거리","bike_count":15,"lat":37.54863358,"lon":127.02572632}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-247","station_name":"535. 응봉삼거리","bike_count":12,"lat":37.5539856,"lon":127.03359222}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-248","station_name":"536. 행당역 2번출구 앞","bike_count":4,"lat":37.55735016,"lon":127.02921295}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-249","station_name":"537. 한양대후문역 부근","bike_count":3,"lat":37.56035614,"lon":127.04139709}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-252","station_name":"539. 군자교교차로","bike_count":17,"lat":37.55979538,"lon":127.07420349}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-253","station_name":"540. 군자역 7번출구 베스트샵 앞","bike_count":7,"lat":37.55603027,"lon":127.0786438}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-254","station_name":"542. 강변역 4번출구 뒤","bike_count":17,"lat":37.53582382,"lon":127.09416199}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-255","station_name":"543. 구의공원(테크노마트 앞)","bike_count":47,"lat":37.53598785,"lon":127.09462738}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-256","station_name":"544. 광남중학교","bike_count":5,"lat":37.54072952,"lon":127.10290527}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-257","station_name":"546. 잠실대교북단 교차로","bike_count":14,"lat":37.53247833,"lon":127.08509064}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-258","station_name":"548. 자양나들목","bike_count":7,"lat":37.5297699,"lon":127.07485962}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-259","station_name":"549. 아차산역 3번출구","bike_count":18,"lat":37.55122375,"lon":127.08970642}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-251","station_name":"550. 서울시설공단 앞","bike_count":27,"lat":37.57164001,"lon":127.03565979}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-377","station_name":"551. 구의삼성쉐르빌 앞","bike_count":28,"lat":37.5398407,"lon":127.09388733}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-378","station_name":"552. 대림아크로리버 앞","bike_count":18,"lat":37.53657913,"lon":127.0929718}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-379","station_name":"553. 중곡 성원아파트 앞","bike_count":18,"lat":37.57125473,"lon":127.07980347}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-381","station_name":"555. 구의3동주민센터","bike_count":5,"lat":37.53784943,"lon":127.09217072}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-357","station_name":"556. 달맞이공원","bike_count":8,"lat":37.54205322,"lon":127.020401}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-358","station_name":"557. 도선동 주민센터 앞","bike_count":12,"lat":37.56764221,"lon":127.0256958}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-359","station_name":"558. 성동광진 교육지원청 앞","bike_count":35,"lat":37.56460571,"lon":127.03652191}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-360","station_name":"559. 왕십리역 4번 출구 건너편","bike_count":6,"lat":37.56109619,"lon":127.03679657}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-361","station_name":"560. 비전교회 앞","bike_count":2,"lat":37.55120468,"lon":127.06893158}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-362","station_name":"561. 서울숲역 2번출구 앞","bike_count":0,"lat":37.54281616,"lon":127.0446701}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-364","station_name":"563. 성동세무서 건너편","bike_count":25,"lat":37.5479126,"lon":127.06275177}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-365","station_name":"564. 금호역 3번출구","bike_count":7,"lat":37.54792786,"lon":127.01557159}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-366","station_name":"565. 옥수역 3번출구","bike_count":12,"lat":37.54136658,"lon":127.01776123}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-369","station_name":"568. 청계8가 사거리 B","bike_count":9,"lat":37.57110214,"lon":127.02355957}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-370","station_name":"569. 응봉현대아파트 정류소","bike_count":11,"lat":37.54958344,"lon":127.03024292}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-382","station_name":"571. 세종대학교 대양AI센터","bike_count":22,"lat":37.55039597,"lon":127.07585907}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-384","station_name":"573. 구의문주차장 앞","bike_count":14,"lat":37.54523087,"lon":127.08473206}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-385","station_name":"574. 아차산역4번출구","bike_count":31,"lat":37.55184937,"lon":127.08898163}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-386","station_name":"575. 대원중고교 입구(대하빌딩)","bike_count":15,"lat":37.56429291,"lon":127.08693695}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-387","station_name":"576. 광나루역 3번 출구","bike_count":22,"lat":37.54483032,"lon":127.10426331}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-388","station_name":"577. 광진청소년수련관","bike_count":28,"lat":37.54654694,"lon":127.10613251}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-371","station_name":"578. 성동세무서 부근","bike_count":1,"lat":37.54829025,"lon":127.06246185}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-372","station_name":"579. 마장역 4번출구","bike_count":2,"lat":37.56520462,"lon":127.04184723}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-375","station_name":"582. 경일중학교 앞","bike_count":15,"lat":37.54317856,"lon":127.0490799}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-376","station_name":"583. 청계천 생태교실 앞","bike_count":18,"lat":37.56797028,"lon":127.04689026}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-445","station_name":"584. 광진광장 교통섬","bike_count":23,"lat":37.54782867,"lon":127.07263184}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-446","station_name":"585. 성수2가1동 공영주차장 인근","bike_count":23,"lat":37.53680801,"lon":127.05548859}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-447","station_name":"586. 마장동 주민센터","bike_count":13,"lat":37.56594086,"lon":127.0453949}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-482","station_name":"587. 유니베라 앞","bike_count":23,"lat":37.54541779,"lon":127.05264282}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-483","station_name":"588. 뚝섬 유원지역","bike_count":4,"lat":37.53268814,"lon":127.06749725}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-506","station_name":"589. 성수역3번출구","bike_count":23,"lat":37.54415894,"lon":127.05665588}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-972","station_name":"590. 건국대학교 (입학정보관)","bike_count":22,"lat":37.53989029,"lon":127.07336426}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-973","station_name":"591. 건국대학교 (행정관)","bike_count":4,"lat":37.54277802,"lon":127.07537079}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-974","station_name":"592. 건국대학교 학생회관","bike_count":39,"lat":37.54191208,"lon":127.07763672}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-980","station_name":"593.자양중앙나들목","bike_count":16,"lat":37.52845383,"lon":127.07803345}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-967","station_name":"594. 중랑물재생센터(서울새활용플라자)","bike_count":72,"lat":37.55830383,"lon":127.05805969}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-260","station_name":"600. 휘경2동 주민센터","bike_count":6,"lat":37.58991241,"lon":127.06867981}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-262","station_name":"602. 장안동 사거리","bike_count":8,"lat":37.57217407,"lon":127.07138824}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-265","station_name":"605. 신설동역8번출구","bike_count":5,"lat":37.57419968,"lon":127.02649689}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-266","station_name":"606. 서울반도체고 앞","bike_count":12,"lat":37.58462524,"lon":127.07028961}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-267","station_name":"607. 신이문역 2번출구","bike_count":16,"lat":37.60271072,"lon":127.06786346}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-268","station_name":"608. 전농삼성아파트","bike_count":0,"lat":37.58131027,"lon":127.05534363}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-269","station_name":"609. 제기2교","bike_count":12,"lat":37.58774567,"lon":127.03738403}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-270","station_name":"610. 동대문중 교차로","bike_count":7,"lat":37.57308578,"lon":127.05216217}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-271","station_name":"612. 시립동부병원 앞 사거리","bike_count":12,"lat":37.57366562,"lon":127.03081512}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-272","station_name":"613. 신설동역 10번출구 앞","bike_count":9,"lat":37.57527161,"lon":127.02346802}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-273","station_name":"614. 용두동 사거리","bike_count":13,"lat":37.57768631,"lon":127.03101349}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-274","station_name":"615. 용두동 래미안허브리츠아파트 앞","bike_count":16,"lat":37.57638168,"lon":127.03511047}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-275","station_name":"616. 서울시립대 정문 앞 A","bike_count":11,"lat":37.58256149,"lon":127.05436707}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-276","station_name":"617. 청솔우성아파트 앞","bike_count":9,"lat":37.57420349,"lon":127.05769348}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-389","station_name":"621. 전농초등학교 건너편","bike_count":5,"lat":37.57489014,"lon":127.05353546}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-390","station_name":"622. 전농사거리 교통섬","bike_count":10,"lat":37.57779312,"lon":127.05783081}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-391","station_name":"623. 서울시립대 정문 앞 B","bike_count":10,"lat":37.58369827,"lon":127.0538559}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-392","station_name":"624. 전농동 동아아파트 앞","bike_count":3,"lat":37.57418823,"lon":127.04589081}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-394","station_name":"626. 군자교 서측 녹지대","bike_count":27,"lat":37.56115341,"lon":127.07096863}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-395","station_name":"627. 장안동삼거리 교통섬","bike_count":18,"lat":37.57863235,"lon":127.07190704}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-396","station_name":"628. 휘봉고등학교 앞","bike_count":20,"lat":37.58677673,"lon":127.06764221}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-397","station_name":"630. 동대문구 보건소","bike_count":14,"lat":37.57485199,"lon":127.04030609}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-398","station_name":"631. 답십리역 1번출구","bike_count":38,"lat":37.5681839,"lon":127.05127716}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-400","station_name":"633. 청량리 기업은행 앞","bike_count":2,"lat":37.58049774,"lon":127.04472351}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-401","station_name":"634. 외국어대 정문 앞","bike_count":11,"lat":37.59601974,"lon":127.05982971}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-402","station_name":"635. 시조사 앞","bike_count":14,"lat":37.58751678,"lon":127.05277252}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-403","station_name":"636. 세종대왕기념관 교차로","bike_count":4,"lat":37.59073639,"lon":127.04258728}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-404","station_name":"637. KAIST 경영대학 앞","bike_count":17,"lat":37.59161377,"lon":127.04579163}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-405","station_name":"638. 서울시립대 정보기술관","bike_count":8,"lat":37.58300781,"lon":127.06097412}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-406","station_name":"639. 서울시립대 후문","bike_count":4,"lat":37.58504486,"lon":127.06027222}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-407","station_name":"640. 동대문경찰서 교차로","bike_count":3,"lat":37.58255005,"lon":127.04460144}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-408","station_name":"641. 용두역 4번출구","bike_count":10,"lat":37.57375336,"lon":127.03853607}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-409","station_name":"642. 신답역 사거리","bike_count":3,"lat":37.57035446,"lon":127.0484314}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-410","station_name":"643. 동대문구민체육센터 (육교아래)","bike_count":8,"lat":37.56697083,"lon":127.07429504}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1300","station_name":"648. 장안동위더스빌옆","bike_count":6,"lat":37.56669998,"lon":127.06242371}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1302","station_name":"650. 중랑교사거리","bike_count":26,"lat":37.59153366,"lon":127.06774139}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1447","station_name":"652. 답십리 래미안엘파인아파트 입구","bike_count":5,"lat":37.57653046,"lon":127.06594086}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1449","station_name":"654. 전농동 텃골공원","bike_count":4,"lat":37.57762146,"lon":127.05210876}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1628","station_name":"656. 영휘원 교차로","bike_count":9,"lat":37.58723831,"lon":127.0431366}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1625","station_name":"661. 경희대학교 청운관","bike_count":20,"lat":37.59460068,"lon":127.05197144}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1671","station_name":"663. 외대앞역 3번출구","bike_count":7,"lat":37.59489059,"lon":127.06302643}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1758","station_name":"664. 서울시립대 건설공학관","bike_count":20,"lat":37.58412933,"lon":127.05793762}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2265","station_name":"665.이문동 쌍용아파트 정문","bike_count":7,"lat":37.59960556,"lon":127.06864166}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2266","station_name":"666.이문대성유니드아파트 앞","bike_count":5,"lat":37.60362244,"lon":127.0708313}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2267","station_name":"667.청량차도 육교 밑","bike_count":9,"lat":37.58670807,"lon":127.04688263}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2269","station_name":"669.청계한신휴플러스앞 삼거리","bike_count":3,"lat":37.57214737,"lon":127.04460907}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2270","station_name":"670.삼육서울병원 버스정류장","bike_count":8,"lat":37.5896759,"lon":127.06151581}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2271","station_name":"671.대광빌딩","bike_count":2,"lat":37.57734299,"lon":127.02337646}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2272","station_name":"672.대광고등학교","bike_count":10,"lat":37.57875061,"lon":127.02402496}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2273","station_name":"673.안암골벽산아파트(후문)","bike_count":9,"lat":37.58407974,"lon":127.03103638}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2274","station_name":"674.고대앞사거리 교통섬","bike_count":7,"lat":37.58655167,"lon":127.03314209}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2276","station_name":"676.FITI시험연구원 앞","bike_count":3,"lat":37.58143234,"lon":127.03547668}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2278","station_name":"678.장안힐스테이트(아) 앞","bike_count":11,"lat":37.57655716,"lon":127.0743103}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2279","station_name":"679.전농SK아파트 앞","bike_count":4,"lat":37.57787704,"lon":127.06168365}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2280","station_name":"680.꿈마루어린이도서관 앞","bike_count":10,"lat":37.59238434,"lon":127.05741119}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2281","station_name":"681.서울특별시 동부교육지원청(육교)","bike_count":9,"lat":37.5798378,"lon":127.0563736}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-308","station_name":"700. KB국민은행 염창역 지점 앞","bike_count":2,"lat":37.5468483,"lon":126.87277222}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-309","station_name":"701. 목동사거리 부근","bike_count":3,"lat":37.53280258,"lon":126.86392975}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-310","station_name":"702. 목4동주민센터 옆","bike_count":21,"lat":37.53254318,"lon":126.86872864}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-311","station_name":"703. 오목교역 7번출구 앞","bike_count":15,"lat":37.52362823,"lon":126.87524414}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-312","station_name":"704. 남부법원검찰청 교차로","bike_count":17,"lat":37.52325439,"lon":126.86490631}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-313","station_name":"706. 신정네거리역","bike_count":22,"lat":37.5218811,"lon":126.85175323}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-315","station_name":"708. 서울출입국관리사무소 앞","bike_count":32,"lat":37.51897049,"lon":126.8699646}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-316","station_name":"709. 신정3동 현장민원실 앞","bike_count":0,"lat":37.51158524,"lon":126.84156036}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-317","station_name":"710. 금옥여고보도육교","bike_count":4,"lat":37.50971222,"lon":126.84416962}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-318","station_name":"711. 신일해피트리아파트 앞","bike_count":26,"lat":37.51705933,"lon":126.84848785}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-319","station_name":"712. 강월초교입구 사거리","bike_count":0,"lat":37.51699829,"lon":126.83831787}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-320","station_name":"713. 양서중학교 옆","bike_count":3,"lat":37.53304672,"lon":126.82995605}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-321","station_name":"714. 한국SGI 양천문화회관 앞","bike_count":24,"lat":37.532547,"lon":126.83080292}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-428","station_name":"716.신정6동 주민센터 인근","bike_count":7,"lat":37.51731873,"lon":126.86431885}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-431","station_name":"719. 홍익병원앞 교차로","bike_count":3,"lat":37.53109741,"lon":126.86402893}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-432","station_name":"720. 서울강월초등학교 앞","bike_count":22,"lat":37.5161972,"lon":126.8348999}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-993","station_name":"722. 경서농협 버스정류장(우리은행신정동지점방향)","bike_count":0,"lat":37.52151108,"lon":126.85738373}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-994","station_name":"723. SBS방송국","bike_count":58,"lat":37.52916336,"lon":126.87274933}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-995","station_name":"724. 계남공원 입구 주출입구 좌측","bike_count":0,"lat":37.51059723,"lon":126.85732269}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-996","station_name":"725. 양강중학교앞 교차로","bike_count":1,"lat":37.52433395,"lon":126.85054779}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-997","station_name":"726. 목동3단지 시내버스정류장","bike_count":19,"lat":37.5343895,"lon":126.86959839}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1000","station_name":"729. 서부식자재마트 건너편","bike_count":2,"lat":37.51037979,"lon":126.8667984}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1002","station_name":"731. 서울시 도로환경관리센터","bike_count":32,"lat":37.5298996,"lon":126.87654114}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1004","station_name":"733. 신정이펜하우스314동","bike_count":5,"lat":37.51409912,"lon":126.83100128}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1005","station_name":"734. 신트리공원 입구","bike_count":3,"lat":37.51395035,"lon":126.85605621}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1006","station_name":"735. 영도초등학교","bike_count":12,"lat":37.53637695,"lon":126.87151337}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1007","station_name":"736. 오솔길공원","bike_count":1,"lat":37.52219009,"lon":126.83670044}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1008","station_name":"737. 장수공원","bike_count":6,"lat":37.52231216,"lon":126.8490448}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1010","station_name":"739. 신월사거리","bike_count":2,"lat":37.53699493,"lon":126.82728577}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1011","station_name":"740. 으뜸공원","bike_count":6,"lat":37.53636932,"lon":126.83171082}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1012","station_name":"741. 화곡로 입구 교차로","bike_count":2,"lat":37.53952026,"lon":126.82540131}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1013","station_name":"742. 등촌역 5번 출구 뒤","bike_count":3,"lat":37.55073166,"lon":126.86457825}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1014","station_name":"743. 현대6차아파트 101동 옆","bike_count":10,"lat":37.50889969,"lon":126.84268188}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1015","station_name":"744. 신목동역 2번 출구","bike_count":18,"lat":37.54384232,"lon":126.88254547}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1016","station_name":"745. 강서초등학교","bike_count":2,"lat":37.52228165,"lon":126.83969879}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1017","station_name":"746. 목동2단지 상가","bike_count":45,"lat":37.53650284,"lon":126.87774658}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1018","station_name":"747. 목동3단지 상가","bike_count":4,"lat":37.53458023,"lon":126.8756485}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1019","station_name":"748. 목동운동장","bike_count":49,"lat":37.53025055,"lon":126.87930298}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1350","station_name":"749. 이대목동병원보도육교","bike_count":67,"lat":37.53722763,"lon":126.88661194}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1398","station_name":"750. 연의근린공원 건너편","bike_count":23,"lat":37.51222992,"lon":126.83578491}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1400","station_name":"752. 성원2차 아파트","bike_count":3,"lat":37.54218292,"lon":126.86330414}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1495","station_name":"754. 목동1단지아파트 118동 앞","bike_count":1,"lat":37.54114151,"lon":126.87667847}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1496","station_name":"755. 목동1단지아파트 상가 앞","bike_count":28,"lat":37.5378685,"lon":126.88140869}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1497","station_name":"756. 목동주차장","bike_count":26,"lat":37.52667999,"lon":126.8761673}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1498","station_name":"757. 신정이펜하우스 1단지아파트 입구 사거리","bike_count":14,"lat":37.51427841,"lon":126.82874298}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1499","station_name":"758. 한사랑교회 앞","bike_count":0,"lat":37.51472092,"lon":126.85919952}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1500","station_name":"759. 보아스아파트 앞","bike_count":1,"lat":37.52407074,"lon":126.83860016}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1501","station_name":"760. 잣절보도육교 아래","bike_count":16,"lat":37.50682068,"lon":126.84429932}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1503","station_name":"762. 오목로 무중력지대 앞","bike_count":23,"lat":37.52474213,"lon":126.87766266}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1504","station_name":"763. 목동11단지 아파트","bike_count":0,"lat":37.51065826,"lon":126.85916138}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1731","station_name":"765. 오목교역 3번출구","bike_count":22,"lat":37.52477646,"lon":126.87548065}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1736","station_name":"766. 신목동역 3번출구","bike_count":13,"lat":37.54394913,"lon":126.883461}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1993","station_name":"767.신정숲속마을아파트","bike_count":13,"lat":37.50574493,"lon":126.83631134}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1994","station_name":"768.목동5단지아파트 501동","bike_count":50,"lat":37.53566742,"lon":126.88158417}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1995","station_name":"769.CBS방송국 앞","bike_count":59,"lat":37.52785492,"lon":126.87467194}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1996","station_name":"770.목동역5번출구","bike_count":48,"lat":37.52571487,"lon":126.86486816}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1997","station_name":"771.목동아파트 703동 앞","bike_count":20,"lat":37.52820587,"lon":126.87016296}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1999","station_name":"773.염창역 3, 4번 출구 사이","bike_count":1,"lat":37.54670715,"lon":126.87457275}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2000","station_name":"774.등촌역 4번 출구 ","bike_count":1,"lat":37.54950714,"lon":126.86721802}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2001","station_name":"775.세종그랑시아 앞(102동)","bike_count":1,"lat":37.53837585,"lon":126.86383057}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2002","station_name":"776.목마공원","bike_count":31,"lat":37.53874207,"lon":126.88568115}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2003","station_name":"777.신월6차보람아파트 앞","bike_count":10,"lat":37.52988815,"lon":126.83500671}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2005","station_name":"779. 신정1동 주민센터 앞","bike_count":15,"lat":37.51854324,"lon":126.85388184}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2006","station_name":"780.신정교 하부","bike_count":40,"lat":37.5173378,"lon":126.8776474}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2007","station_name":"781.신정보도육교 아래","bike_count":13,"lat":37.51759338,"lon":126.8765564}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2008","station_name":"782.서남병원 후문","bike_count":15,"lat":37.51167297,"lon":126.83274078}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2011","station_name":"785.양천구청, 보건소 사잇길","bike_count":26,"lat":37.51747513,"lon":126.86632538}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2012","station_name":"786.목동아파트 8단지 상가동 앞","bike_count":4,"lat":37.52006912,"lon":126.86831665}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2013","station_name":"787.양천아파트 입구","bike_count":2,"lat":37.50790405,"lon":126.86264801}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2014","station_name":"788.양천구청역 2번출구 옆","bike_count":25,"lat":37.51228714,"lon":126.86528015}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2016","station_name":"791.현대하이페리온","bike_count":30,"lat":37.52490234,"lon":126.86980438}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2017","station_name":"792.목동트라팰리스 웨스턴에비뉴","bike_count":17,"lat":37.52537155,"lon":126.8709259}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2039","station_name":"793.목동5단지아파트 534동","bike_count":21,"lat":37.53302002,"lon":126.87789917}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2395","station_name":"794.양천문화회관","bike_count":10,"lat":37.51686478,"lon":126.86296082}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2396","station_name":"795.양천 해누리타운","bike_count":14,"lat":37.51584244,"lon":126.86411285}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2397","station_name":"796.목동아파트 14단지 B상가 앞","bike_count":12,"lat":37.5146637,"lon":126.87194061}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2398","station_name":"797.목동아파트 1422동 1434동 사잇길","bike_count":29,"lat":37.51515579,"lon":126.87248993}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-322","station_name":"800. 목월공원 앞","bike_count":8,"lat":37.53243256,"lon":126.95474243}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-324","station_name":"802. 한강진역 2번 출구 앞","bike_count":4,"lat":37.54115295,"lon":127.00221252}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-326","station_name":"805. 문배어린이공원 앞","bike_count":15,"lat":37.53675842,"lon":126.97000122}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-327","station_name":"806. 전자랜드 본관 앞","bike_count":19,"lat":37.5330658,"lon":126.96073151}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-328","station_name":"807. 서울역 12번 출구 앞","bike_count":12,"lat":37.55227661,"lon":126.97268677}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-329","station_name":"808. 서빙고동 금호맨션 앞","bike_count":8,"lat":37.520504,"lon":126.98973846}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-330","station_name":"809. 한남 유수지 복개주차장","bike_count":17,"lat":37.53016663,"lon":127.00743866}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-331","station_name":"810. 이태원지하보도","bike_count":9,"lat":37.53841019,"lon":126.98664856}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-332","station_name":"811. 녹사평역1번출구","bike_count":13,"lat":37.53507996,"lon":126.98538208}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-334","station_name":"813. 삼각지역 3번출구","bike_count":29,"lat":37.53351212,"lon":126.97227478}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-335","station_name":"815. LIG강촌아파트 103동앞","bike_count":15,"lat":37.51850891,"lon":126.97879791}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-435","station_name":"816. 신용산역 6번출구 앞","bike_count":38,"lat":37.53014755,"lon":126.96848297}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-436","station_name":"817. 삼각지역 4번출구 앞","bike_count":1,"lat":37.53345108,"lon":126.97173309}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-437","station_name":"818. 숙명여대 입구 교차로","bike_count":12,"lat":37.54489517,"lon":126.96938324}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-438","station_name":"819. 선린인터넷 고등학교","bike_count":7,"lat":37.54165268,"lon":126.97050476}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-439","station_name":"820. 청파동입구 교차로","bike_count":14,"lat":37.54902649,"lon":126.97194672}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-440","station_name":"822. 이촌1동 마을공원","bike_count":7,"lat":37.52202606,"lon":126.96618652}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-441","station_name":"823. 효창동주민센터 앞","bike_count":8,"lat":37.54232025,"lon":126.96195984}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-442","station_name":"825. 서빙고동 주민센터 앞","bike_count":17,"lat":37.52033615,"lon":126.9942627}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-946","station_name":"826. 서울역 서부교차로2","bike_count":24,"lat":37.55536652,"lon":126.96864319}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1324","station_name":"827. 국군복지단","bike_count":11,"lat":37.54151535,"lon":126.97951508}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1325","station_name":"828. 숙대입구역 8번","bike_count":6,"lat":37.54407883,"lon":126.97200012}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1326","station_name":"829. 한강대교 북단 교차로","bike_count":7,"lat":37.52293015,"lon":126.96169281}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1327","station_name":"830. 강변삼성스위트아파트 앞","bike_count":3,"lat":37.53442383,"lon":126.94857025}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1339","station_name":"832. 이촌1동 주민센터 뒤","bike_count":1,"lat":37.5212822,"lon":126.97346497}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1341","station_name":"834. 효창공원앞역 3번출구 앞","bike_count":6,"lat":37.53900146,"lon":126.96181488}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1342","station_name":"835. 남영역 건너편","bike_count":27,"lat":37.54198074,"lon":126.97154236}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1343","station_name":"836. 현대자동차서비스 앞","bike_count":2,"lat":37.53142166,"lon":126.95149994}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1344","station_name":"837. 한남나들목 입구","bike_count":7,"lat":37.52898788,"lon":127.00662231}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1376","station_name":"838. 숙대입구역 4번출구","bike_count":13,"lat":37.54464722,"lon":126.97234344}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1441","station_name":"839. 보광동 삼성리버빌아파트 앞","bike_count":9,"lat":37.5240097,"lon":127.00144958}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1442","station_name":"840. 용산 파크타워 앞","bike_count":13,"lat":37.52365112,"lon":126.97026825}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1443","station_name":"841. 신용산역 1번 출구","bike_count":12,"lat":37.52960968,"lon":126.96887207}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1445","station_name":"843. 이태원관광특구 입구(용산구청방향)","bike_count":28,"lat":37.53379822,"lon":126.98867035}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1446","station_name":"844. 이촌2동 동원베네스트 아파트 앞","bike_count":20,"lat":37.5271492,"lon":126.95516205}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1615","station_name":"845. 용산 선인상가","bike_count":10,"lat":37.53269958,"lon":126.96437836}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1721","station_name":"846. 용산중학교","bike_count":7,"lat":37.54650116,"lon":126.9809494}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2172","station_name":"848. 삼각지12번 출구","bike_count":7,"lat":37.53488922,"lon":126.97562408}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2173","station_name":"849. 삼각지 자이아파트","bike_count":18,"lat":37.53607941,"lon":126.97341919}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2174","station_name":"850.KCC용산웰츠(WELLTZ)타워","bike_count":22,"lat":37.53739929,"lon":126.96892548}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2175","station_name":"851.효창 푸르지오 앞","bike_count":3,"lat":37.54047775,"lon":126.95811462}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2176","station_name":"852. 청암자이아파트 앞","bike_count":25,"lat":37.53452682,"lon":126.9471817}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2177","station_name":"853.용산역 맞은편","bike_count":17,"lat":37.52841568,"lon":126.96595001}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2178","station_name":"854.HID 유족동지회 앞","bike_count":11,"lat":37.53850937,"lon":127.0014801}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2179","station_name":"855.이촌역5번출구 앞","bike_count":10,"lat":37.52272415,"lon":126.97277069}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2181","station_name":"857. 현대 안성타워","bike_count":12,"lat":37.53508759,"lon":126.99797058}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2182","station_name":"858.녹사평역3번 출구","bike_count":10,"lat":37.53440857,"lon":126.9868927}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2183","station_name":"859.남산공원 야외식물원 앞","bike_count":5,"lat":37.54188538,"lon":126.99586487}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2184","station_name":"860.LG한강 자이아파트 앞","bike_count":14,"lat":37.52074814,"lon":126.9708252}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2187","station_name":"863.이촌역2번 출구","bike_count":11,"lat":37.52177048,"lon":126.977005}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2188","station_name":"864.순천향대학병원(한남오거리)","bike_count":10,"lat":37.53514099,"lon":127.00600433}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2190","station_name":"866.브라운스톤 남산아파트","bike_count":4,"lat":37.551548,"lon":126.97686005}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2191","station_name":"867.서빙고역 광장(1번출구)","bike_count":4,"lat":37.51990891,"lon":126.98923492}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2239","station_name":"869.노들섬 동측 앞","bike_count":4,"lat":37.51729584,"lon":126.95914459}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2240","station_name":"870.노들섬 서측 앞","bike_count":3,"lat":37.51731873,"lon":126.95829773}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-448","station_name":"900. 은평예술회관","bike_count":23,"lat":37.60394287,"lon":126.92769623}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-450","station_name":"902. 진관동 은빛초등학교","bike_count":0,"lat":37.64310837,"lon":126.91822052}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-451","station_name":"903. 은평뉴타운 아이파크","bike_count":12,"lat":37.64586639,"lon":126.92739105}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-452","station_name":"904. 은평뉴타운 푸르지오","bike_count":24,"lat":37.64867401,"lon":126.93070221}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-453","station_name":"905. 구파발역 2번출구","bike_count":49,"lat":37.63623428,"lon":126.91899872}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-454","station_name":"906. 연신내역 5번출구","bike_count":14,"lat":37.61721039,"lon":126.91957855}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-455","station_name":"907. CJ 드림시티","bike_count":8,"lat":37.59949493,"lon":126.91698456}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-456","station_name":"908. 구산역 4번출구","bike_count":10,"lat":37.61318588,"lon":126.91735077}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-457","station_name":"909. 백련산 힐스테이트 3차","bike_count":18,"lat":37.58699417,"lon":126.92288208}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-459","station_name":"911. 은평평화공원(역촌역4번출구)","bike_count":0,"lat":37.60558319,"lon":126.92293549}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-460","station_name":"912. 응암오거리","bike_count":14,"lat":37.58966064,"lon":126.91694641}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-461","station_name":"913. 이마트 버스정류장(서부경찰서 방면)","bike_count":3,"lat":37.60070038,"lon":126.92012787}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-462","station_name":"914. 새절역 2번출구","bike_count":15,"lat":37.59080887,"lon":126.91368866}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-463","station_name":"915. 증산역 4번출구","bike_count":1,"lat":37.5843811,"lon":126.90989685}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-464","station_name":"916. 평생학습관 앞","bike_count":1,"lat":37.60784912,"lon":126.92132568}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-465","station_name":"917. 녹번역 3번출구","bike_count":0,"lat":37.60074615,"lon":126.93501282}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-467","station_name":"919. 서울혁신파크","bike_count":0,"lat":37.60702515,"lon":126.93331146}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-469","station_name":"921. 신도고등학교","bike_count":0,"lat":37.63001633,"lon":126.91902924}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-470","station_name":"922. 연신내역 4번출구","bike_count":5,"lat":37.61780167,"lon":126.92196655}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-471","station_name":"923. 국민은행 연서지점","bike_count":0,"lat":37.62094879,"lon":126.92563629}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-473","station_name":"925. 불광역 2번출구","bike_count":5,"lat":37.60956573,"lon":126.93097687}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-475","station_name":"927. 연신내역 3번출구 인근","bike_count":2,"lat":37.61785507,"lon":126.9225235}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-476","station_name":"928. 은평역사한옥박물관","bike_count":3,"lat":37.64131546,"lon":126.93804169}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-478","station_name":"930. 구 서부경찰서 건너편","bike_count":5,"lat":37.60166168,"lon":126.92030334}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-479","station_name":"931. 역촌파출소","bike_count":24,"lat":37.60473633,"lon":126.91533661}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-480","station_name":"932. 예일여중","bike_count":6,"lat":37.61000443,"lon":126.91639709}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-481","station_name":"933. 역촌종합시장 버스정류장(예일여고 방면)","bike_count":15,"lat":37.61248398,"lon":126.91487885}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1023","station_name":"937. 상림마을 롯데캐슬2단지 옆","bike_count":16,"lat":37.64585114,"lon":126.92379761}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1024","station_name":"938. 금암 문화공원","bike_count":0,"lat":37.64468384,"lon":126.91845703}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1025","station_name":"939. 은평구청 교차로","bike_count":10,"lat":37.60169983,"lon":126.92742157}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1027","station_name":"941. 은평뉴타운 도서관","bike_count":12,"lat":37.63722229,"lon":126.93330383}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1028","station_name":"942. 상림마을 생태공원","bike_count":2,"lat":37.64408112,"lon":126.92928314}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1029","station_name":"943. 은평구청 보건소","bike_count":14,"lat":37.60240173,"lon":126.9286499}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1031","station_name":"945. 기자촌 사거리 A","bike_count":0,"lat":37.63414001,"lon":126.93234253}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1032","station_name":"946. 독바위역 ","bike_count":0,"lat":37.61843872,"lon":126.93288422}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1033","station_name":"947. 연신내 선일하이츠빌 정류소","bike_count":4,"lat":37.62266922,"lon":126.91999054}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1034","station_name":"948. 디지털미디어 시티역 4번출구(DMC역)","bike_count":14,"lat":37.57720184,"lon":126.90235138}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1035","station_name":"949. 연신내역 1번 출구 ","bike_count":8,"lat":37.61978149,"lon":126.92080688}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1036","station_name":"950. 구산역 2번 출구 예일여고 버스정류장","bike_count":14,"lat":37.60980225,"lon":126.91679382}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1038","station_name":"952. 서울연신중학교","bike_count":0,"lat":37.62265015,"lon":126.92524719}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1039","station_name":"953. 서울연신초등학교","bike_count":8,"lat":37.6257782,"lon":126.92881775}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1329","station_name":"954. 은평뉴타운구파발9단지","bike_count":1,"lat":37.64260864,"lon":126.92147827}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1331","station_name":"956. 응암시장교차로","bike_count":8,"lat":37.59441376,"lon":126.91801453}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1479","station_name":"958. 본 서부병원 버스정류장(은평 세무서 방면)","bike_count":4,"lat":37.60036087,"lon":126.92281342}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1480","station_name":"959. 구파발10단지 인근","bike_count":19,"lat":37.64318466,"lon":126.91509247}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1481","station_name":"960. 구파발역 환승센터","bike_count":24,"lat":37.63825226,"lon":126.91945648}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1483","station_name":"962. 은평뉴타운 힐데스하임","bike_count":14,"lat":37.63925934,"lon":126.91890717}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1484","station_name":"963. 불광롯데캐슬아파트 앞","bike_count":2,"lat":37.6128006,"lon":126.93217468}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1485","station_name":"964. 북한산힐스테이트 7차아파트","bike_count":1,"lat":37.61654282,"lon":126.92512512}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1486","station_name":"965. 서울특별시 은평병원","bike_count":12,"lat":37.59347916,"lon":126.92318726}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1487","station_name":"966. 서울혁신파크1","bike_count":10,"lat":37.60944748,"lon":126.93467712}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1488","station_name":"967. 서울혁신파크2","bike_count":3,"lat":37.60849762,"lon":126.93199921}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1489","station_name":"968. 은평뉴타운 상림마을 13단지","bike_count":0,"lat":37.64208984,"lon":126.92941284}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1490","station_name":"969. 은평 지웰테라스","bike_count":0,"lat":37.64339447,"lon":126.93213654}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1674","station_name":"971. 역촌 센트레빌 아파트","bike_count":34,"lat":37.60232925,"lon":126.90654755}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2241","station_name":"973.제각말푸르지오 5-1단지 아파트","bike_count":2,"lat":37.63734818,"lon":126.93584442}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2242","station_name":"974.연신초등학교옆 마을마당","bike_count":11,"lat":37.62672043,"lon":126.92901611}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2243","station_name":"975.백련산 힐스테이트상가앞","bike_count":7,"lat":37.59036255,"lon":126.92301178}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2244","station_name":"976.진관고등학교앞","bike_count":6,"lat":37.64350891,"lon":126.92410278}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2245","station_name":"977.신도중학교앞","bike_count":1,"lat":37.63310242,"lon":126.9315033}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2246","station_name":"978.녹번 힐스테이트상가앞","bike_count":0,"lat":37.60100937,"lon":126.93592834}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2247","station_name":"979.원풍빌라앞","bike_count":0,"lat":37.59186172,"lon":126.90608215}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2250","station_name":"982. 녹번초등학교(서오릉로)","bike_count":12,"lat":37.60412598,"lon":126.92508698}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2252","station_name":"984.상신초등학교앞 버스정류장","bike_count":3,"lat":37.59580994,"lon":126.91026306}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2253","station_name":"985. 은평세무서 버스정류장(은평구청 방면)","bike_count":15,"lat":37.60119247,"lon":126.92638397}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2257","station_name":"989. 신응교(가좌로) 앞","bike_count":10,"lat":37.59181213,"lon":126.91483307}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2259","station_name":"991.흥국사 정류장","bike_count":8,"lat":37.6567688,"lon":126.94200897}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2260","station_name":"992.북한산입구 정류장","bike_count":5,"lat":37.65828705,"lon":126.94529724}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2261","station_name":"993.은평뉴타운 은뜨락아파트앞","bike_count":13,"lat":37.63028717,"lon":126.91956329}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2262","station_name":"994.북한산생태공원입구(교통섬)","bike_count":2,"lat":37.61050797,"lon":126.9385376}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2263","station_name":"995.은평다목적체육관","bike_count":17,"lat":37.63140869,"lon":126.92540741}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2264","station_name":"996.응암역2번출구 국민은행 앞","bike_count":8,"lat":37.59996796,"lon":126.91572571}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-485","station_name":"1001. 광진교 남단 사거리(천호공원 방면)","bike_count":26,"lat":37.54179382,"lon":127.12474823}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-486","station_name":"1002. 해공공원(천호동)","bike_count":0,"lat":37.5452652,"lon":127.12593842}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-487","station_name":"1003. 해공도서관앞","bike_count":1,"lat":37.54395676,"lon":127.12548828}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-488","station_name":"1004. 삼성광나루아파트 버스정류장","bike_count":8,"lat":37.55332947,"lon":127.1288681}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-490","station_name":"1006. 롯데캐슬 115동앞","bike_count":0,"lat":37.55486679,"lon":127.14279938}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-491","station_name":"1007.암사동 선사유적지","bike_count":4,"lat":37.55955887,"lon":127.13087463}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-492","station_name":"1008. 암사역 3번출구(국민은행앞)","bike_count":13,"lat":37.54935455,"lon":127.12708282}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-493","station_name":"1009. 천호역4번출구(현대백화점)","bike_count":13,"lat":37.53866577,"lon":127.12424469}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-494","station_name":"1010. 강동세무서","bike_count":8,"lat":37.53450775,"lon":127.13840485}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-495","station_name":"1011. LIGA 아파트 앞","bike_count":5,"lat":37.53474426,"lon":127.13528442}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-496","station_name":"1012. 천호역효성해링턴타워 앞","bike_count":3,"lat":37.53600693,"lon":127.12272644}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-497","station_name":"1013. 강동구청역 1번 출입구","bike_count":22,"lat":37.53071594,"lon":127.12098694}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-499","station_name":"1015. 샛마을 근린공원","bike_count":15,"lat":37.55003738,"lon":127.14691162}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-500","station_name":"1016. 해뜨는 주유소옆 리엔파크 109동앞","bike_count":14,"lat":37.55939865,"lon":127.17118073}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-501","station_name":"1017. 둔촌고교입구 교차로(길동주민센터 방면)","bike_count":1,"lat":37.53544617,"lon":127.14518738}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-830","station_name":"1018. 둔촌 주공 GS 맞은편","bike_count":5,"lat":37.52425385,"lon":127.13528442}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-502","station_name":"1019. 다성이즈빌아파트(호원대 대각선 맞은편)","bike_count":9,"lat":37.52679443,"lon":127.13005829}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-503","station_name":"1020. 강동경찰서","bike_count":16,"lat":37.52825165,"lon":127.12680054}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-504","station_name":"1021. 강일동 리슈빌 빌딩앞","bike_count":31,"lat":37.56427383,"lon":127.17397308}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-505","station_name":"1022. 길동 사거리(초소앞)","bike_count":11,"lat":37.53377914,"lon":127.13799286}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1040","station_name":"1023. 한국종합기술사옥 앞","bike_count":19,"lat":37.54998398,"lon":127.17470551}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1041","station_name":"1024.  강동구청 앞","bike_count":34,"lat":37.52929688,"lon":127.12315369}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1042","station_name":"1025. 상일초등학교","bike_count":20,"lat":37.54684067,"lon":127.17251587}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1044","station_name":"1027. 프라자 아파트 앞","bike_count":3,"lat":37.53596115,"lon":127.14781952}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1045","station_name":"1028. 포레스 주상복합 빌딩","bike_count":1,"lat":37.53310776,"lon":127.12277222}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1046","station_name":"1029. 성내어울터","bike_count":6,"lat":37.53655624,"lon":127.12553406}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1047","station_name":"1030. 미호 플랜트 앞","bike_count":9,"lat":37.52703094,"lon":127.12206268}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1048","station_name":"1031. 올림픽로 836(아리수로)","bike_count":10,"lat":37.55604172,"lon":127.13093567}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1049","station_name":"1032. 선사고등학교","bike_count":18,"lat":37.55672836,"lon":127.13626099}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1050","station_name":"1033. 고덕동 아남아파트","bike_count":0,"lat":37.55793381,"lon":127.14476776}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1051","station_name":"1034. 고덕동 래미안 힐스테이트","bike_count":8,"lat":37.5618782,"lon":127.15078735}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1053","station_name":"1036. 고덕동 주양쇼핑","bike_count":2,"lat":37.55199051,"lon":127.15331268}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1054","station_name":"1037. 강일리버파크 6단지","bike_count":7,"lat":37.56256485,"lon":127.1776123}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1055","station_name":"1038. 강일 다솜 어린이 공원","bike_count":26,"lat":37.56863785,"lon":127.17480469}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1056","station_name":"1039. 고덕초등학교","bike_count":13,"lat":37.56129837,"lon":127.16784668}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1058","station_name":"1041. 묘곡초등학교","bike_count":18,"lat":37.55916214,"lon":127.15332031}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1059","station_name":"1042. 강일리버파크 2~5단지","bike_count":20,"lat":37.5685463,"lon":127.17700958}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1061","station_name":"1044. 굽은다리역","bike_count":36,"lat":37.54540634,"lon":127.14267731}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1370","station_name":"1048. 둔촌어린이공원","bike_count":10,"lat":37.53099442,"lon":127.14237213}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1371","station_name":"1049. 강일리버파크 10단지","bike_count":25,"lat":37.561203,"lon":127.18026733}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1420","station_name":"1050.  둔촌역 3번 출입구","bike_count":14,"lat":37.52678299,"lon":127.13557434}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1421","station_name":"1051. 강일중,선사고 버스정류장(신암중학교 방면)","bike_count":2,"lat":37.55483627,"lon":127.13732147}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1594","station_name":"1053. 동명근린공원 진입로 (아리수로)","bike_count":0,"lat":37.56254578,"lon":127.16448212}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1597","station_name":"1056. 강일리버파크 7~11단지","bike_count":11,"lat":37.56335449,"lon":127.17905426}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1598","station_name":"1057. 능골근린공원","bike_count":13,"lat":37.55580902,"lon":127.1737442}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1623","station_name":"1058. 고덕숲 아이파크 1","bike_count":1,"lat":37.55348206,"lon":127.16505432}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1626","station_name":"1059. 래미안 강동팰리스(102동)","bike_count":14,"lat":37.53822708,"lon":127.13174438}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1620","station_name":"1060. 천일초교 사거리","bike_count":0,"lat":37.5446701,"lon":127.13267517}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1621","station_name":"1061. 천호초교 입구 사거리(일주빌딩)","bike_count":0,"lat":37.54689789,"lon":127.13466644}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1762","station_name":"1063.강동롯데캐슬퍼스트 아파트(관리동)","bike_count":0,"lat":37.55666351,"lon":127.14273834}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1763","station_name":"1064.중앙보훈병원역 1번출구","bike_count":1,"lat":37.52779388,"lon":127.14764404}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1764","station_name":"1065.보훈병원 후문옆(더 원커피)","bike_count":0,"lat":37.53120804,"lon":127.1492691}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1765","station_name":"1066.생태공원앞 교차로(조명탑)","bike_count":0,"lat":37.5377655,"lon":127.15201569}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1766","station_name":"1067.한영중고앞사거리","bike_count":1,"lat":37.54903412,"lon":127.15605164}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1767","station_name":"1068.명일파출소","bike_count":5,"lat":37.5536499,"lon":127.15622711}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1831","station_name":"1070.(시립)고덕평생학습관","bike_count":14,"lat":37.55570221,"lon":127.15792084}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1833","station_name":"1072.고덕역 5번출구","bike_count":5,"lat":37.55486298,"lon":127.15372467}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1834","station_name":"1073. SSTS 몰 앞","bike_count":6,"lat":37.54114532,"lon":127.14105225}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1835","station_name":"1074.대명초교입구 사거리","bike_count":2,"lat":37.54683685,"lon":127.14916229}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1836","station_name":"1075.천동초교 삼거리","bike_count":1,"lat":37.54136276,"lon":127.13718414}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1837","station_name":"1076. 천동초교입구사거리 버스정류장(십자성마을 방면)","bike_count":10,"lat":37.5398941,"lon":127.14103699}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1838","station_name":"1077.강동역 1번출구 앞","bike_count":3,"lat":37.53627014,"lon":127.13246918}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1839","station_name":"1078.둔촌사거리","bike_count":13,"lat":37.52197647,"lon":127.13362122}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1840","station_name":"1079.강일동입구교차로","bike_count":20,"lat":37.56184387,"lon":127.17084503}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1841","station_name":"1080.천호지하주차장 5번 출입구","bike_count":3,"lat":37.5368309,"lon":127.12841797}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1842","station_name":"1081.트레빌빌딩","bike_count":7,"lat":37.53699875,"lon":127.12953186}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1844","station_name":"1083.광문고교사거리(아이파크)","bike_count":2,"lat":37.56036758,"lon":127.15659332}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1687","station_name":"1084. 윤선생빌딩(JYP사옥)","bike_count":26,"lat":37.5239296,"lon":127.1291275}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1845","station_name":"1085.래미안 솔베뉴(고덕로)","bike_count":0,"lat":37.55456924,"lon":127.14587402}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1846","station_name":"1086.래미안 솔베뉴(구천면로)","bike_count":11,"lat":37.55059814,"lon":127.14545441}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1848","station_name":"1088.풍납사거리(강동)","bike_count":14,"lat":37.52812195,"lon":127.11952209}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1849","station_name":"1089.고덕 래미안힐스테이트(201동)","bike_count":14,"lat":37.56060028,"lon":127.146698}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1850","station_name":"1090.상일동역 2번출구 앞","bike_count":10,"lat":37.5567894,"lon":127.16614532}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-507","station_name":"1101. 상사마을 버스정류장(아라대교방면)","bike_count":8,"lat":37.58161163,"lon":126.79859924}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-508","station_name":"1102. 방화사거리 마을버스 버스정류장","bike_count":9,"lat":37.57364273,"lon":126.81180573}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-831","station_name":"1103. 방화역 4번출구앞","bike_count":13,"lat":37.57710648,"lon":126.81199646}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-509","station_name":"1105. 방화근린공원","bike_count":6,"lat":37.58162308,"lon":126.81265259}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-824","station_name":"1106. 신방화사거리","bike_count":1,"lat":37.57256317,"lon":126.81642151}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-510","station_name":"1108. 공항시장역 2번출구 뒤","bike_count":1,"lat":37.56387329,"lon":126.81060791}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-511","station_name":"1109. 공항시장역 4번출구","bike_count":0,"lat":37.56334686,"lon":126.81048584}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-828","station_name":"1110. 공항중학교앞","bike_count":3,"lat":37.56220245,"lon":126.81624603}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-512","station_name":"1111. 마곡엠밸리6_7단지 마곡중학교","bike_count":11,"lat":37.56698227,"lon":126.82180023}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-513","station_name":"1112. 마곡엠밸리4단지 정문","bike_count":11,"lat":37.56857681,"lon":126.8247757}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-514","station_name":"1113. 서남환경공원 버스정류장","bike_count":18,"lat":37.57312393,"lon":126.8223877}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-834","station_name":"1117. 등촌5단지아파트 버스정류장","bike_count":0,"lat":37.55819702,"lon":126.84426117}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-516","station_name":"1118. 증미역 3번출구뒤(등촌두산위브센티움오피스텔)","bike_count":20,"lat":37.55746078,"lon":126.86145782}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-517","station_name":"1119. 염창동 한마음아파트 앞","bike_count":19,"lat":37.55425262,"lon":126.86756134}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-518","station_name":"1120. 대림경동아파트앞","bike_count":42,"lat":37.564785,"lon":126.85464478}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-519","station_name":"1121. 가양레포츠센터 앞","bike_count":14,"lat":37.55947876,"lon":126.86437988}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-522","station_name":"1124. 발산역 6번 출구 뒤","bike_count":13,"lat":37.55817795,"lon":126.8384552}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-523","station_name":"1126. 우장산역 1번출구옆(우장산아이파크105동앞)","bike_count":10,"lat":37.54890823,"lon":126.83656311}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-524","station_name":"1127. 화곡역 버스정류장","bike_count":9,"lat":37.54098129,"lon":126.83854675}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-829","station_name":"1128. 화곡역 6번출구","bike_count":2,"lat":37.54141235,"lon":126.84022522}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-525","station_name":"1129. 화곡역 1번 출구 앞","bike_count":4,"lat":37.542099,"lon":126.84021759}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-526","station_name":"1130. 화곡본동시장 버스정류장","bike_count":1,"lat":37.54275131,"lon":126.84262085}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-528","station_name":"1132. 등촌역 7번출구","bike_count":37,"lat":37.55110931,"lon":126.8637085}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-530","station_name":"1135. 강서구의회","bike_count":0,"lat":37.54653168,"lon":126.86254883}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-531","station_name":"1136. 등촌2파출소","bike_count":0,"lat":37.54456711,"lon":126.86196899}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-532","station_name":"1137. 등촌2동주민센터","bike_count":7,"lat":37.54126358,"lon":126.8633728}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-533","station_name":"1139. 용문사 버스정류장","bike_count":2,"lat":37.53852081,"lon":126.86343384}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-534","station_name":"1140. 목동사거리 버스정류장","bike_count":1,"lat":37.53139877,"lon":126.86360931}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-535","station_name":"1141. 곰달래 문화복지센터 A","bike_count":2,"lat":37.52906036,"lon":126.84848022}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-536","station_name":"1145. 곰달래 문화복지센터 B","bike_count":14,"lat":37.52891922,"lon":126.8480835}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-538","station_name":"1148. 볏골공원","bike_count":2,"lat":37.54146957,"lon":126.84477997}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-975","station_name":"1149. 신방화역환승주차장","bike_count":15,"lat":37.56728363,"lon":126.81827545}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1062","station_name":"1150. 송정역 1번출구","bike_count":4,"lat":37.56153107,"lon":126.81069946}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1063","station_name":"1151. 마곡역1번출구","bike_count":90,"lat":37.56020737,"lon":126.82414246}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1064","station_name":"1152. 마곡역교차로","bike_count":28,"lat":37.55831146,"lon":126.82652283}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1065","station_name":"1153. 발산역 1번, 9번 인근 대여소","bike_count":18,"lat":37.55894852,"lon":126.83717346}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1067","station_name":"1155. 기쁜우리복지관","bike_count":9,"lat":37.56925964,"lon":126.84841919}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1069","station_name":"1157. 강서구청","bike_count":7,"lat":37.55065918,"lon":126.84976959}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1249","station_name":"1158. 가양역 8번출구","bike_count":48,"lat":37.56103516,"lon":126.85481262}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1250","station_name":"1159. 서서울모터리움 앞","bike_count":18,"lat":37.56585312,"lon":126.84659576}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1251","station_name":"1160. 양천향교역 7번출구앞","bike_count":6,"lat":37.56768036,"lon":126.84089661}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1252","station_name":"1161. 강서면허시험장 앞","bike_count":8,"lat":37.54969406,"lon":126.819664}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1253","station_name":"1162. 공항초등학교건너편","bike_count":5,"lat":37.56267929,"lon":126.82047272}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1254","station_name":"1163. 방화동강서기동대앞","bike_count":5,"lat":37.57049942,"lon":126.82008362}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1338","station_name":"1165. 마곡중학교 후문","bike_count":29,"lat":37.56844711,"lon":126.82164764}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1351","station_name":"1166. 강서구립등빛도서관","bike_count":10,"lat":37.56274414,"lon":126.84267426}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1352","station_name":"1167. 마곡수명산파크3단지 교차로","bike_count":10,"lat":37.55350876,"lon":126.8258667}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1402","station_name":"1168. 마곡엠밸리10단지 앞","bike_count":10,"lat":37.56029129,"lon":126.8187561}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1506","station_name":"1169. 염창역 1번 출구","bike_count":18,"lat":37.54719925,"lon":126.87448883}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1507","station_name":"1170. 강서구보건소","bike_count":1,"lat":37.54917908,"lon":126.8687973}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1508","station_name":"1171. 염창동 새마을금고 건너편","bike_count":3,"lat":37.55004883,"lon":126.87316132}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1509","station_name":"1172. 가양3동 주민센터","bike_count":20,"lat":37.56124878,"lon":126.86058044}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1510","station_name":"1173. 강서구청사거리(SH타워)","bike_count":10,"lat":37.55673599,"lon":126.85307312}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1511","station_name":"1174. 강서구청사거리(부민병원)","bike_count":16,"lat":37.55661392,"lon":126.85116577}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1512","station_name":"1175. 대한항공 인력개발센터","bike_count":22,"lat":37.55437851,"lon":126.85753632}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1514","station_name":"1177. 수명중․고교","bike_count":14,"lat":37.55010986,"lon":126.82367706}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1515","station_name":"1178. 개화산역 2번 출구","bike_count":6,"lat":37.57247162,"lon":126.8061676}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1517","station_name":"1180. 마곡엠밸리 15단지(1502동) 건너편","bike_count":0,"lat":37.55746841,"lon":126.82971954}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1518","station_name":"1181. 농수산식품공사 (강서지사)","bike_count":9,"lat":37.55104446,"lon":126.8184967}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1519","station_name":"1182. KBS 스포츠월드","bike_count":7,"lat":37.55687714,"lon":126.84880829}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1520","station_name":"1183. 강서대학교","bike_count":0,"lat":37.54828644,"lon":126.85356903}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1645","station_name":"1184. 마곡13단지","bike_count":9,"lat":37.55644989,"lon":126.815979}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1646","station_name":"1185. 등촌9단지","bike_count":27,"lat":37.56290054,"lon":126.84947205}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1647","station_name":"1186. 송정중학교","bike_count":4,"lat":37.55472946,"lon":126.81609344}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1676","station_name":"1187. 강서수산물도매시장","bike_count":7,"lat":37.55302048,"lon":126.818367}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1708","station_name":"1188. 롯데중앙연구소","bike_count":6,"lat":37.57138062,"lon":126.82833862}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1709","station_name":"1190. 마곡역 교차로(2번출구)","bike_count":22,"lat":37.5605011,"lon":126.82665253}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1689","station_name":"1191. 마곡역 버스정류장(마곡나루역1번출구, 웰튼병원 방면)","bike_count":6,"lat":37.5602417,"lon":126.8271637}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1710","station_name":"1192. 마곡수명산파크 209동 건너편","bike_count":15,"lat":37.55545044,"lon":126.82689667}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1688","station_name":"1193. 마곡센트럴타워 1차","bike_count":55,"lat":37.55947113,"lon":126.83207703}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1712","station_name":"1195. 코오롱One&Only타워","bike_count":48,"lat":37.56412888,"lon":126.83431244}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1713","station_name":"1196. 서울식물원(문화센터) 건너편","bike_count":24,"lat":37.56824112,"lon":126.83583069}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1714","station_name":"1197. 엠펠리체 호텔 건너편","bike_count":18,"lat":37.56026077,"lon":126.83546448}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1715","station_name":"1198. LG 사이언스파크","bike_count":20,"lat":37.56254959,"lon":126.82743835}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1694","station_name":"1199. 우장산역 3번출구","bike_count":4,"lat":37.54782104,"lon":126.83612823}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1695","station_name":"1200. 개화광역환승센터","bike_count":11,"lat":37.57844925,"lon":126.79897308}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-838","station_name":"1201. 가락시장역 3번 출구","bike_count":27,"lat":37.49317932,"lon":127.11854553}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-737","station_name":"1203. 밀리아나2빌딩 앞","bike_count":16,"lat":37.49372864,"lon":127.12062073}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-930","station_name":"1204. 거여역 3번출구","bike_count":9,"lat":37.49334335,"lon":127.14472961}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-539","station_name":"1205. 종합운동장역 4번출구","bike_count":16,"lat":37.51042938,"lon":127.07137299}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-540","station_name":"1206. 9호선종합운동장역 9번출구","bike_count":62,"lat":37.51128006,"lon":127.07823944}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-738","station_name":"1207. 마천중앙시장","bike_count":13,"lat":37.49975586,"lon":127.15250397}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-541","station_name":"1208. 풍납현대아파트쉼터","bike_count":14,"lat":37.52974701,"lon":127.1199646}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-542","station_name":"1209. 잠실나루역 (2번 출구 쪽)","bike_count":2,"lat":37.52045059,"lon":127.10420227}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-891","station_name":"1210. 롯데월드타워(잠실역2번출구 쪽)","bike_count":118,"lat":37.51312637,"lon":127.10095978}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-839","station_name":"1212. 송파역 2번 출구앞","bike_count":17,"lat":37.49941254,"lon":127.11286926}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-543","station_name":"1213. 백토공원 앞","bike_count":1,"lat":37.50831985,"lon":127.13321686}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-740","station_name":"1214. 오금역 7번 출구 인근","bike_count":14,"lat":37.50259399,"lon":127.1276474}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-544","station_name":"1215. 올림픽공원역 1번출구 앞","bike_count":8,"lat":37.51657104,"lon":127.13153839}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-545","station_name":"1217. 송파파인타운 7단지","bike_count":6,"lat":37.47930527,"lon":127.12979889}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-892","station_name":"1218. 방이역 4번출구","bike_count":18,"lat":37.50896835,"lon":127.12583923}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-546","station_name":"1220. 잠실근린공원","bike_count":9,"lat":37.50569153,"lon":127.08403778}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-933","station_name":"1221. 삼전역 4번출구","bike_count":5,"lat":37.50419998,"lon":127.08753204}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-547","station_name":"1222. 잠실새내역 5번 출구 뒤","bike_count":18,"lat":37.51198196,"lon":127.08505249}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-548","station_name":"1224. 아시아지하보도 2번 출구","bike_count":9,"lat":37.51216888,"lon":127.07893372}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-894","station_name":"1226. 잠실4동 주민센터 옆","bike_count":31,"lat":37.52007675,"lon":127.11236572}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-895","station_name":"1227. 거여역 8번출구 뒤","bike_count":3,"lat":37.49312592,"lon":127.14382172}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-896","station_name":"1228. 마천사거리 ","bike_count":14,"lat":37.49769974,"lon":127.14620209}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-549","station_name":"1229. 송파체육문화회관 앞","bike_count":3,"lat":37.49068832,"lon":127.14312744}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-897","station_name":"1230. 송파중학교 정문","bike_count":2,"lat":37.49567032,"lon":127.13059235}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-840","station_name":"1231. 잠실역 6번출구","bike_count":60,"lat":37.51408768,"lon":127.09902954}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-550","station_name":"1232. 잠실주공 521동 건너편","bike_count":5,"lat":37.51184082,"lon":127.09568787}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-551","station_name":"1233. 잠실3거리(갤러리아팰리스)","bike_count":4,"lat":37.51050949,"lon":127.09336853}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-553","station_name":"1235. 잠실트리지움310동 옆","bike_count":15,"lat":37.50887299,"lon":127.08716583}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-899","station_name":"1239. 문정 법조단지3","bike_count":10,"lat":37.48084259,"lon":127.11801147}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-900","station_name":"1240. 문정 법조단지4","bike_count":3,"lat":37.48057556,"lon":127.11856842}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-901","station_name":"1241. 문정 법조단지5","bike_count":3,"lat":37.48123932,"lon":127.11979675}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-902","station_name":"1242. 문정 법조단지6","bike_count":0,"lat":37.48163223,"lon":127.11916351}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-903","station_name":"1243. 문정 법조단지7","bike_count":35,"lat":37.4845314,"lon":127.12016296}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-904","station_name":"1244. 문정 법조단지8","bike_count":5,"lat":37.48153687,"lon":127.12212372}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-905","station_name":"1245. 문정 법조단지9","bike_count":4,"lat":37.47946548,"lon":127.12532806}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-906","station_name":"1246. 문정 법조단지10","bike_count":7,"lat":37.47750854,"lon":127.12632751}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-907","station_name":"1247. 문정 법조단지11","bike_count":5,"lat":37.4788208,"lon":127.12351227}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-908","station_name":"1248. 방이초등학교","bike_count":16,"lat":37.51396179,"lon":127.12167358}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-981","station_name":"1250.문정2동 주민센터","bike_count":3,"lat":37.48987198,"lon":127.11083984}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1070","station_name":"1251. 석촌역 2번출구","bike_count":34,"lat":37.50593185,"lon":127.10774994}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1072","station_name":"1253. 오금역 3번 출구 뒤","bike_count":10,"lat":37.50165176,"lon":127.12818146}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1075","station_name":"1256. 문정현대아파트 교차로","bike_count":0,"lat":37.49113083,"lon":127.12580872}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1077","station_name":"1258. 가락미륭아파트 앞","bike_count":1,"lat":37.49319839,"lon":127.1289978}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1078","station_name":"1259. 방이역 1번출구","bike_count":25,"lat":37.50898361,"lon":127.12659454}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1079","station_name":"1260. 방이동 한양3차아파트 옆","bike_count":7,"lat":37.50630188,"lon":127.12139893}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1081","station_name":"1262. 송파여성문화회관 앞","bike_count":28,"lat":37.50580215,"lon":127.10971832}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1082","station_name":"1263. 장지공영차고지","bike_count":6,"lat":37.48054123,"lon":127.1370163}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1083","station_name":"1264. 천호역 10번 출구 앞","bike_count":10,"lat":37.53858185,"lon":127.12280273}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1084","station_name":"1265. 문정동 근린공원","bike_count":16,"lat":37.48598862,"lon":127.12476349}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1085","station_name":"1266. 문정동 글샘 공원","bike_count":8,"lat":37.47880936,"lon":127.12000275}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1086","station_name":"1267. 올림픽공원 남2문 앞","bike_count":5,"lat":37.51424026,"lon":127.12306976}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1087","station_name":"1268. 몽촌토성역 1번출구 옆","bike_count":3,"lat":37.51728821,"lon":127.11419678}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1088","station_name":"1269. 리센츠아파트 ","bike_count":10,"lat":37.51194382,"lon":127.09121704}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1089","station_name":"1271. 송파도서관","bike_count":5,"lat":37.49998474,"lon":127.13539124}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1092","station_name":"1274. 영파여고 앞","bike_count":7,"lat":37.53284836,"lon":127.12104797}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1367","station_name":"1275. 거여초등학교 옆","bike_count":18,"lat":37.50458908,"lon":127.13936615}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1408","station_name":"1277. 성내7교","bike_count":3,"lat":37.50562668,"lon":127.1364212}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1409","station_name":"1278. 송파구청 교차로","bike_count":35,"lat":37.51586151,"lon":127.10704803}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1410","station_name":"1279. 마천금호어울림 1차아파트 건너편","bike_count":0,"lat":37.49751663,"lon":127.15467834}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1413","station_name":"1282. 송파소방서 맞은편(성내4교)","bike_count":23,"lat":37.49987411,"lon":127.14147949}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1414","station_name":"1283. 오금공원 사거리","bike_count":4,"lat":37.50541306,"lon":127.13169098}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1416","station_name":"1285. 위례별 유치원 뒤","bike_count":7,"lat":37.4774704,"lon":127.14459229}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1417","station_name":"1286. 위례중앙푸르지오 1단지 앞","bike_count":1,"lat":37.47437668,"lon":127.14067078}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1418","station_name":"1287. 위례아이파크 101동 맞은편","bike_count":4,"lat":37.47746658,"lon":127.14151001}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1419","station_name":"1288. 문정중교 사거리","bike_count":1,"lat":37.48799896,"lon":127.13108826}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1422","station_name":"1289. 풍납토성 서성벽터B","bike_count":4,"lat":37.53147125,"lon":127.11109161}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1579","station_name":"1290. 위례송파꿈에그린아파트24단지 앞 성벽 다리 밑","bike_count":7,"lat":37.47458267,"lon":127.13754272}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1580","station_name":"1291. 서울체육고등학교 앞","bike_count":30,"lat":37.52193832,"lon":127.13186646}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1582","station_name":"1293. 석촌호수 서호 사거리","bike_count":22,"lat":37.50656128,"lon":127.09655762}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1584","station_name":"1295. 잠실역 8번출구","bike_count":10,"lat":37.51396179,"lon":127.10030365}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1585","station_name":"1296. 석촌호수교차로 (송파나루근린공원 앞)","bike_count":2,"lat":37.50867844,"lon":127.1034317}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1586","station_name":"1297. 석촌호수교차로(동호 팔각정 앞)","bike_count":24,"lat":37.50920105,"lon":127.10411835}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1588","station_name":"1299. 송파소방서 (방이119안전센터)","bike_count":5,"lat":37.51987839,"lon":127.13671112}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1589","station_name":"1300. 오륜사거리","bike_count":20,"lat":37.50693893,"lon":127.13922119}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-825","station_name":"1302. 한성대입구역6번출구 뒤","bike_count":2,"lat":37.58876419,"lon":127.00630951}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-931","station_name":"1303. 돈암초교 입구","bike_count":7,"lat":37.59169388,"lon":127.01249695}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-826","station_name":"1304. 만해공원","bike_count":8,"lat":37.59440231,"lon":126.99230957}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-947","station_name":"1305. 성북구청","bike_count":5,"lat":37.58932877,"lon":127.01643372}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-842","station_name":"1306. 한성대입구역2번출구","bike_count":2,"lat":37.58844757,"lon":127.00670624}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-827","station_name":"1308. 안암로터리 버스정류장 앞","bike_count":18,"lat":37.58259201,"lon":127.02897644}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-559","station_name":"1314. 정릉꿈에그린1단지 201동 앞","bike_count":7,"lat":37.60243988,"lon":127.01168823}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-560","station_name":"1315. 고려사대부속중고 정문","bike_count":5,"lat":37.60776138,"lon":127.00328064}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-562","station_name":"1316. 고려사대부속중고 건너편 ","bike_count":6,"lat":37.60726166,"lon":127.00283813}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-563","station_name":"1318. 길음역 3번출구 뒤","bike_count":8,"lat":37.60308456,"lon":127.0247879}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-564","station_name":"1319. 종암박스파크","bike_count":11,"lat":37.60301971,"lon":127.03329468}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-655","station_name":"1321. 국민은행 종암동지점 앞","bike_count":10,"lat":37.59328842,"lon":127.03666687}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-565","station_name":"1322. 래미안라센트아파트 103동 앞","bike_count":4,"lat":37.59806824,"lon":127.03927612}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-571","station_name":"1325. 상월곡역 4번출구","bike_count":11,"lat":37.60580826,"lon":127.04773712}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-572","station_name":"1326. 상월곡역 1번출구","bike_count":3,"lat":37.60606766,"lon":127.0473175}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-574","station_name":"1327. 상월곡역 3번출구","bike_count":10,"lat":37.60734177,"lon":127.05068207}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-910","station_name":"1328. 월곡역 3번출구","bike_count":7,"lat":37.6026268,"lon":127.04163361}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-578","station_name":"1332. 석계역 5번출구 건너편","bike_count":13,"lat":37.61292267,"lon":127.06640625}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-579","station_name":"1333. 석관초등학교 앞","bike_count":20,"lat":37.61029053,"lon":127.05888367}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-580","station_name":"1334. 석관동주민센터 앞","bike_count":8,"lat":37.61299896,"lon":127.06130981}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1200","station_name":"1336. 성북3교 위","bike_count":6,"lat":37.59171295,"lon":127.01355743}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1201","station_name":"1337. 돈암성당 옆","bike_count":9,"lat":37.59039307,"lon":127.01716614}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1202","station_name":"1338. 용문2교 옆","bike_count":8,"lat":37.58693314,"lon":127.02068329}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1203","station_name":"1339. 삼성전자서비스 성북센터","bike_count":7,"lat":37.61057281,"lon":127.03366852}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1204","station_name":"1340. 광운초등학교 앞","bike_count":14,"lat":37.61784363,"lon":127.05500031}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1206","station_name":"1342. 성북쉼터 앞","bike_count":9,"lat":37.59261703,"lon":126.99793243}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1207","station_name":"1343. 한성대7번출구 앞","bike_count":11,"lat":37.58924866,"lon":127.00737762}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1208","station_name":"1344. 아리랑시네센터 앞","bike_count":12,"lat":37.60028839,"lon":127.01370239}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1210","station_name":"1346. 길음8골어린이공원 옆","bike_count":0,"lat":37.60897827,"lon":127.02024841}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1211","station_name":"1347. 길음래미안아파트817동 상가 앞","bike_count":5,"lat":37.60710526,"lon":127.02149963}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1212","station_name":"1348. 성북제일새마을금고 본점 앞","bike_count":6,"lat":37.60475159,"lon":127.02275848}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1213","station_name":"1349. 월계2교 버스정류장 앞","bike_count":3,"lat":37.62140656,"lon":127.05197144}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1215","station_name":"1351. 안암2교 옆","bike_count":9,"lat":37.57936478,"lon":127.02436066}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1216","station_name":"1352. e 편한세상 보문아파트 내","bike_count":5,"lat":37.58388138,"lon":127.01709747}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1217","station_name":"1353. 금호어울림센터힐 내","bike_count":9,"lat":37.60083008,"lon":127.02355194}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1317","station_name":"1354. 고려대학교 2번출구","bike_count":13,"lat":37.5907135,"lon":127.03619385}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1383","station_name":"1357. 북한산보국문역","bike_count":3,"lat":37.61207199,"lon":127.00813293}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1384","station_name":"1358. 정릉도서관 앞","bike_count":1,"lat":37.60478973,"lon":127.01058197}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1386","station_name":"1360. 정릉역","bike_count":4,"lat":37.60309601,"lon":127.01350403}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1424","station_name":"1361. 홍익중고 입구","bike_count":18,"lat":37.59296799,"lon":127.00223541}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1455","station_name":"1363. 보문4교 인근","bike_count":5,"lat":37.58375168,"lon":127.02194977}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1456","station_name":"1364. 성북동 치안센터 앞","bike_count":15,"lat":37.59017181,"lon":127.00408936}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1457","station_name":"1365. 선잠단지 앞","bike_count":4,"lat":37.5933609,"lon":126.9990921}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1458","station_name":"1366. 일신초등학교 옆","bike_count":7,"lat":37.59972,"lon":127.04038239}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1459","station_name":"1367. 길음문화복합미디어센터","bike_count":8,"lat":37.60429764,"lon":127.02261353}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1460","station_name":"1368. 성신여대입구 교차로","bike_count":9,"lat":37.59139633,"lon":127.02015686}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1634","station_name":"1370. 복자사랑 피정의 집","bike_count":10,"lat":37.59453964,"lon":126.99520874}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1636","station_name":"1372. KEB은행 고대점","bike_count":17,"lat":37.58644485,"lon":127.03160095}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1637","station_name":"1373. 성북구보건소 건너편","bike_count":11,"lat":37.60235596,"lon":127.03907776}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1723","station_name":"1375. 생명의 전화 종합복지관 앞 교차로","bike_count":18,"lat":37.60390854,"lon":127.0373764}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1745","station_name":"1376. 한국과학기술연구원 중문","bike_count":6,"lat":37.59730911,"lon":127.0437851}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1746","station_name":"1377. 한국과학기술연구원 북문","bike_count":12,"lat":37.60418701,"lon":127.04549408}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2221","station_name":"1379.길음뉴타운푸르지오아파트 3단지","bike_count":15,"lat":37.60929489,"lon":127.01847839}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2222","station_name":"1380.월곡역 5번출구 앞","bike_count":11,"lat":37.60108566,"lon":127.04123688}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2223","station_name":"1381.석계역 4번출구 뒤","bike_count":12,"lat":37.61478424,"lon":127.06700134}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2406","station_name":"1382.래미안월곡아파트 입구","bike_count":0,"lat":37.60866547,"lon":127.03627014}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2225","station_name":"1384.성신여대입구역 5번출구","bike_count":12,"lat":37.59282684,"lon":127.01628876}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2226","station_name":"1385.성신여대입구역 3번출구 앞","bike_count":22,"lat":37.59236526,"lon":127.01628876}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2227","station_name":"1386.동선고가차도 초입","bike_count":7,"lat":37.59415817,"lon":127.01896667}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2229","station_name":"1388. 돈암초교입구 버스정류장(한성대입구역 방면)","bike_count":7,"lat":37.59088135,"lon":127.01170349}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2231","station_name":"1390.석관래미안아트리치","bike_count":12,"lat":37.60646057,"lon":127.06162262}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2232","station_name":"1391.성북청소년센터","bike_count":11,"lat":37.61688232,"lon":127.05606842}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2233","station_name":"1392.돈암삼성풍림아파트","bike_count":5,"lat":37.5970993,"lon":127.02262878}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2234","station_name":"1393.돈암육교 하단","bike_count":18,"lat":37.59818268,"lon":127.0211792}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2235","station_name":"1394.길음뉴타운 래미안9단지","bike_count":15,"lat":37.60242462,"lon":127.01998138}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2236","station_name":"1395.래미안장위포레카운티(102동)","bike_count":15,"lat":37.61817932,"lon":127.05183411}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2237","station_name":"1396.래미안장위퍼스트하이(513동)","bike_count":21,"lat":37.61844254,"lon":127.05145264}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-558","station_name":"1401. 극동늘푸른아파트","bike_count":9,"lat":37.61473846,"lon":127.07636261}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-561","station_name":"1402. 금란주차장 앞","bike_count":16,"lat":37.60007095,"lon":127.10233307}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-566","station_name":"1403. 중화빌딩 앞 (동부시장)","bike_count":8,"lat":37.59424973,"lon":127.07657623}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-599","station_name":"1404. 동일로 지하차도","bike_count":4,"lat":37.59529877,"lon":127.08003235}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-568","station_name":"1405. 망우역 1번출구","bike_count":3,"lat":37.59909821,"lon":127.09294891}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-847","station_name":"1407. 먹골역 1번출구 뒤","bike_count":11,"lat":37.61151123,"lon":127.07788849}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-570","station_name":"1408. 먹골역 6번출구 앞","bike_count":15,"lat":37.61072159,"lon":127.0774765}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-573","station_name":"1410. 면목 대원칸타빌아파트","bike_count":19,"lat":37.57778168,"lon":127.09018707}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-912","station_name":"1411. 상봉시장앞 교차로 한성빌딩 앞","bike_count":13,"lat":37.59254074,"lon":127.08673859}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-849","station_name":"1414. 사가정역 2번출구","bike_count":9,"lat":37.58098984,"lon":127.08824158}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-850","station_name":"1416. 상봉역 3번출구","bike_count":12,"lat":37.59521866,"lon":127.08599854}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-583","station_name":"1418. 새솔초등학교","bike_count":19,"lat":37.61743927,"lon":127.10901642}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-585","station_name":"1420. 신내어울공원 앞","bike_count":5,"lat":37.61394501,"lon":127.09770203}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-586","station_name":"1421. 신내역 4번출구","bike_count":9,"lat":37.61246109,"lon":127.1033783}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-587","station_name":"1422. 신내우디안아파트 1단지","bike_count":22,"lat":37.62009811,"lon":127.10646057}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-588","station_name":"1424. 양원역 2번출구","bike_count":19,"lat":37.6063118,"lon":127.10774231}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-589","station_name":"1425. 신성미소지움아파트","bike_count":17,"lat":37.58745956,"lon":127.09597015}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-590","station_name":"1426. 면목도시개발아파트 1동 앞","bike_count":43,"lat":37.57358932,"lon":127.08682251}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-852","station_name":"1427. 용마산역 1번출구","bike_count":4,"lat":37.57429886,"lon":127.08691406}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-853","station_name":"1428. 원묵고등학교","bike_count":9,"lat":37.61602402,"lon":127.08596802}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-854","station_name":"1429. 장안중학교","bike_count":21,"lat":37.59995651,"lon":127.08000183}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-855","station_name":"1430. 중랑구청","bike_count":23,"lat":37.60615158,"lon":127.09259796}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-856","station_name":"1431. 중랑구청 사거리","bike_count":19,"lat":37.60649872,"lon":127.09545135}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-857","station_name":"1433. 중화역 2번출구","bike_count":4,"lat":37.60207748,"lon":127.07958221}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-593","station_name":"1435. 능산삼거리","bike_count":7,"lat":37.60868073,"lon":127.10079193}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-594","station_name":"1436. 동원베네스트 건물 앞","bike_count":17,"lat":37.60810089,"lon":127.10118103}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-595","station_name":"1437. 늘푸른공원 앞","bike_count":14,"lat":37.5834198,"lon":127.07992554}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-596","station_name":"1438. 홈플러스 신내점 앞","bike_count":9,"lat":37.61616898,"lon":127.09348297}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-942","station_name":"1440. 면목2동 사거리","bike_count":15,"lat":37.58637238,"lon":127.0800705}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-584","station_name":"1441. 신내능말공원","bike_count":16,"lat":37.61670685,"lon":127.11026001}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1093","station_name":"1442. 중랑구청 중화동 별관 앞","bike_count":9,"lat":37.59859085,"lon":127.07981873}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1095","station_name":"1444. 면목4치안센터","bike_count":16,"lat":37.57402802,"lon":127.08054352}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1096","station_name":"1445. 용마지구대 A","bike_count":13,"lat":37.5799408,"lon":127.07939911}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1097","station_name":"1446. 중랑전화국 교차로","bike_count":19,"lat":37.59130096,"lon":127.0803299}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1098","station_name":"1447. 면목역 3번출구","bike_count":13,"lat":37.58890152,"lon":127.08728027}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1099","station_name":"1448. 코스트코 상봉점","bike_count":11,"lat":37.59732056,"lon":127.08979797}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1332","station_name":"1449. 상봉역 1번출구","bike_count":19,"lat":37.59655762,"lon":127.08583832}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1333","station_name":"1450. 화랑대역 7번출구","bike_count":25,"lat":37.61963654,"lon":127.08504486}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1334","station_name":"1451. 중랑세무서","bike_count":5,"lat":37.59275818,"lon":127.07266998}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1335","station_name":"1452. 겸재교 진입부","bike_count":8,"lat":37.58565521,"lon":127.07505035}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1345","station_name":"1453. 중랑캠핑숲","bike_count":12,"lat":37.60460281,"lon":127.10925293}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1346","station_name":"1454. 한국전력공사(동대문 중랑지사)","bike_count":4,"lat":37.6073494,"lon":127.07859039}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1375","station_name":"1455. 상봉역 2번 출구","bike_count":37,"lat":37.59632874,"lon":127.08589935}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1380","station_name":"1456. 상아빌딩(우림시장 교차로)","bike_count":17,"lat":37.59511185,"lon":127.10032654}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1381","station_name":"1457. 동원사거리","bike_count":10,"lat":37.58975983,"lon":127.09323883}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1451","station_name":"1458. 상봉터미널2","bike_count":5,"lat":37.59733963,"lon":127.09308624}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-1452","station_name":"1459. 용마한신아파트사거리","bike_count":2,"lat":37.57984543,"lon":127.09276581}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2282","station_name":"1461.동양엔파트 앞","bike_count":12,"lat":37.593853,"lon":127.07507324}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2283","station_name":"1462.동부시장 북문 앞","bike_count":3,"lat":37.59386826,"lon":127.07652283}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2284","station_name":"1463.중랑구민회관","bike_count":7,"lat":37.57407761,"lon":127.08500671}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2285","station_name":"1464.중화역 4번출구","bike_count":16,"lat":37.60305405,"lon":127.07900238}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2287","station_name":"1466.두산대림아파트 삼거리","bike_count":10,"lat":37.61882401,"lon":127.08757019}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2288","station_name":"1467.sk신내 주유소앞(용마산로)","bike_count":10,"lat":37.61362076,"lon":127.10115051}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2289","station_name":"1468.먹골역 7번 출구","bike_count":9,"lat":37.6114769,"lon":127.07739258}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2290","station_name":"1469.먹골역 4번출구","bike_count":17,"lat":37.60982132,"lon":127.07813263}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2291","station_name":"1470.중화동 우리은행 앞","bike_count":4,"lat":37.60520172,"lon":127.07858276}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2292","station_name":"1471.동양쇼핑 정류소 앞","bike_count":8,"lat":37.61535263,"lon":127.07849121}
+{"event_time":"2026-01-27T08:02:10.000Z","station_id":"ST-2293","station_name":"1472.영성빌딩(PAT)","bike_count":4,"lat":37.60408401,"lon":127.07923126}
